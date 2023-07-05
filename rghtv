@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
++#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
@@ -9,9 +9,9 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3iF6Sg-CXkVWvyHIFnkxPbziT4ZAXcC10g&usqp=CAU" group-title="LIVE EVENT",BRI LIGA 1 (S1)
-#EXTVLCOPT:http-referrer=https://dora2.live-streamfootball.link/
+#EXTVLCOPT:http-referrer=https://devine3.live-streamfootball.company/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3918859.m3u8
+https://01fhls.rbtv77.vip/by06rspx/s2/v3a/aHR0cHMlM0ElMkYlMkZsaXZlY2RuLnJ1bXNwb3J0LmNvbQ==/vv/stream/38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3iF6Sg-CXkVWvyHIFnkxPbziT4ZAXcC10g&usqp=CAU?dl=1" group-title="LIVE EVENT",BRI LIGA 1 (S2)
 #EXTVLCOPT:http-referrer=https://idn27.score808.world/
@@ -23,504 +23,451 @@ https://play2-cf.ddi2ank3.cc/auth%3D678eaea339d7cd21569af3140efcf8e36975399e806c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://i.postimg.cc/JhbMpLFQ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-30-T132837-624.png" group-title="National",BTV
+#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://i.postimg.cc/fLZ3djJG/SGN-07-05-2023-1688533315048.png" group-title="National",BTV
 https://akm611a-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="CNN INDONESIA " tvg-logo="https://i.postimg.cc/MXk0rM6L/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-28-T164305-391.png" group-title="National",CNN INDONESIA
+#EXTINF:0 tvg-id="CNN INDONESIA " tvg-logo="https://i.postimg.cc/rmdXy79g/CNN-Indonesia.png" group-title="National",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412735966_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="CNBC INDONESIA "tvg-logo="https://i.postimg.cc/bJB9kVKp/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-28-T164423-894.png" group-title="National",CNBC INDONESIA
+#EXTINF:0 tvg-id="CNBC INDONESIA "tvg-logo="https://i.postimg.cc/rmZC8PpV/CNBC-INDONESIA.png" group-title="National",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hn4b70c/Blue-White-Orange-Modern-Business-Workshop-Banner-97.png" group-title=" National ",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB2TsKLp/INDONESIANA-TV.png" group-title=" National ",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 tvg-id="" group-title=" National " tvg-logo="https://i.ibb.co/1mvYcb3/Blue-White-Orange-Modern-Business-Workshop-Banner-96.png", The Indonesia Channel
+#EXTINF:-1 tvg-id="" group-title=" National " tvg-logo="https://i.postimg.cc/V65rfsTT/THE-INDONESIA-CHANNEL.png", The Indonesia Channel
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmSVGYgc/Blue-White-Orange-Modern-Business-Workshop-Banner-20.png" group-title=" National ",VTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F02ymZF/SGN-07-05-2023-1688541604403.png" group-title=" National ",VTV 
 #http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh3vJ5Kh/SSN-TIVI-1.png" group-title=" National ",UseePrime
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162524
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://i.postimg.cc/YC69nrgL/Blue-White-Orange-Modern-Business-Workshop-Banner-18.png" group-title=" National ",TVONE
+#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://i.ibb.co/7JRFhcM/SGN-07-05-2023-1688541993140.png" group-title=" National ",TVONE
 https://akm611a-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://i.postimg.cc/htHrTpsS/Blue-White-Orange-Modern-Business-Workshop-Banner-13.png" group-title="National ",RCTI (RCTI+)
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://i.ibb.co/VDJQfNm/SGN-07-05-2023-1688542253905.png" group-title="National ",RCTI (RCTI+)
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://i.postimg.cc/htHrTpsS/Blue-White-Orange-Modern-Business-Workshop-Banner-13.png" group-title="National ",RCTI HD
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://i.ibb.co/VDJQfNm/SGN-07-05-2023-1688542253905.png" group-title="National ",RCTI HD
 https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/htHrTpsS/Blue-White-Orange-Modern-Business-Workshop-Banner-13.png" group-title="National ",RCTI SD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.ibb.co/VDJQfNm/SGN-07-05-2023-1688542253905.png" group-title="National ",RCTI SD
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.postimg.cc/13hjGmJn/Blue-White-Orange-Modern-Business-Workshop-Banner-2.png" group-title="National",GTV HD
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.ibb.co/n3Qttmt/SGN-07-05-2023-1688542664747.png" group-title="National",GTV HD
 https://akm611a-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.postimg.cc/13hjGmJn/Blue-White-Orange-Modern-Business-Workshop-Banner-2.png" group-title="National",GTV (RCTI+)
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.ibb.co/n3Qttmt/SGN-07-05-2023-1688542664747.png" group-title="National",GTV (RCTI+)
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.postimg.cc/13hjGmJn/Blue-White-Orange-Modern-Business-Workshop-Banner-2.png" group-title="National",GTV SD
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://i.ibb.co/n3Qttmt/SGN-07-05-2023-1688542664747.png" group-title="National",GTV SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.postimg.cc/sgWqZQzZ/Blue-White-Orange-Modern-Business-Workshop-Banner-10.png" group-title="National ",MNCTV HD
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.ibb.co/c2VF1rs/SGN-07-05-2023-1688542878595.png" group-title="National ",MNCTV HD
 https://akm611a-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.postimg.cc/sgWqZQzZ/Blue-White-Orange-Modern-Business-Workshop-Banner-10.png" group-title="National ",MNCTV (RCTI+)
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.ibb.co/c2VF1rs/SGN-07-05-2023-1688542878595.png" group-title="National ",MNCTV (RCTI+)
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.postimg.cc/sgWqZQzZ/Blue-White-Orange-Modern-Business-Workshop-Banner-10.png" group-title="National ",MNCTV SD
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.ibb.co/c2VF1rs/SGN-07-05-2023-1688542878595.png" group-title="National ",MNCTV SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://i.postimg.cc/tCTxBWv8/Blue-White-Orange-Modern-Business-Workshop-Banner-4.png" group-title="National ",iNEWS
+#EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://i.ibb.co/YcTJ1m0/SGN-07-05-2023-1688543033253.png" group-title="National ",iNEWS
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://i.postimg.cc/tCTxBWv8/Blue-White-Orange-Modern-Business-Workshop-Banner-4.png" group-title="National ",iNEWS (RCTI+)
+#EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://i.ibb.co/YcTJ1m0/SGN-07-05-2023-1688543033253.png" group-title="National ",iNEWS (RCTI+)
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.postimg.cc/g2DSHhMw/Blue-White-Orange-Modern-Business-Workshop-Banner-15.png" group-title="National ",SCTV FHD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162141
+#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV FHD
 #http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
-#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.postimg.cc/g2DSHhMw/Blue-White-Orange-Modern-Business-Workshop-Banner-15.png" group-title="National ",SCTV SD
+#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV SD
 http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
-#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.postimg.cc/g2DSHhMw/Blue-White-Orange-Modern-Business-Workshop-Banner-15.png" group-title="National ",SCTV HD
+#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
 
-
-#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="National ",SCTV SD
-#https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
-
-#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.postimg.cc/pLrJ5gth/Blue-White-Orange-Modern-Business-Workshop-Banner-3.png" group-title="National ",INDOSIAR HD
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/162138.m3u8
+#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National ",INDOSIAR HD
 #http://portalnya.vwoev.opdns.net:80/streams/indosiar/index.m3u8
 #http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
-
-#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.postimg.cc/pLrJ5gth/Blue-White-Orange-Modern-Business-Workshop-Banner-3.png" group-title="National ",INDOSIAR LIVE
+#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National ",INDOSIAR LIVE
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
 #http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.postimg.cc/pLrJ5gth/Blue-White-Orange-Modern-Business-Workshop-Banner-3.png" group-title="National ",INDOSIAR SD
+#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National ",INDOSIAR SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
-#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.postimg.cc/pLrJ5gth/Blue-White-Orange-Modern-Business-Workshop-Banner-3.png" group-title="National ",INDOSIAR🇮🇩
-http://kuchini.site:8080/7abb81c7/e9c0e4445d/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.postimg.cc/htHrTpsS/Blue-White-Orange-Modern-Business-Workshop-Banner-13.png" group-title="National ",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/xM2G7fV/SGN-07-05-2023-1688543492858.png" group-title="National ",RTV
 #http://watchlive.my.id/sa_dash_vmx/RTV.mpd
 
-#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/QdNSjFt3/Blue-White-Orange-Modern-Business-Workshop-Banner-11.png" group-title="National ",MOJI FHD
+#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/6Qh4PTgS/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI FHD
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/298550.m3u8
 #http://portalnya.vwoev.opdns.net:80/streams/moji/index.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/QdNSjFt3/Blue-White-Orange-Modern-Business-Workshop-Banner-11.png" group-title="National ",MOJI HD
+#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.ibb.co/hHjhK5d/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI HD
 #https://raw.githubusercontent.com/mimipipi22/nontontv/42e8cc9c957311d5ee8d69416a278be4c94576f7/FMX/moji.m3u8
 
-#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/QdNSjFt3/Blue-White-Orange-Modern-Business-Workshop-Banner-11.png" group-title="National ",MOJI SD
+#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.ibb.co/hHjhK5d/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI SD
 #http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://i.postimg.cc/2yGbKCgx/Blue-White-Orange-Modern-Business-Workshop-Banner-16.png" group-title="National ",Trans 7 HD
+#EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png" group-title="National ",Trans 7 HD
 https://akm611a-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title="National" tvg-logo="https://i.postimg.cc/2yGbKCgx/Blue-White-Orange-Modern-Business-Workshop-Banner-16.png", Trans 7 SD 
+#EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png", Trans 7 SD 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Trans TV.Id" tvg-logo="https://i.postimg.cc/4yfbd2gB/Blue-White-Orange-Modern-Business-Workshop-Banner-17.png" group-title="National",Trans TV HD
+#EXTINF:0 tvg-id="Trans TV.Id" tvg-logo="https://i.ibb.co/wrryRHr/SGN-07-05-2023-1688544219048.png" group-title="National",Trans TV HD
 https://akm611a-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="National" tvg-logo="https://i.postimg.cc/4yfbd2gB/Blue-White-Orange-Modern-Business-Workshop-Banner-17.png", Trans TV SD 
+#EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/wrryRHr/SGN-07-05-2023-1688544219048.png", Trans TV SD 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://i.postimg.cc/dVRZ16hk/Blue-White-Orange-Modern-Business-Workshop-Banner-7.png" group-title="National ",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://i.ibb.co/6r96LyX/SGN-07-05-2023-1688544570181.png" group-title="National ",Kompas TV
 https://akm611a-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.postimg.cc/Y2st6W5X/Blue-White-Orange-Modern-Business-Workshop-Banner-12.png" group-title="National ",NET HD
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/gFxLWCp/SGN-07-05-2023-1688544760235.png" group-title="National ",NET HD
 https://akm611a-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.postimg.cc/Y2st6W5X/Blue-White-Orange-Modern-Business-Workshop-Banner-12.png" group-title="National ",NET LIVE
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/gFxLWCp/SGN-07-05-2023-1688544760235.png" group-title="National ",NET LIVE
 http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.postimg.cc/Y2st6W5X/Blue-White-Orange-Modern-Business-Workshop-Banner-12.png" group-title="National ",NET SD
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/gFxLWCp/SGN-07-05-2023-1688544760235.png" group-title="National ",NET SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="https://i.postimg.cc/Tw5DR6gG/Blue-White-Orange-Modern-Business-Workshop-Banner-9.png" group-title="National ",Metro TV
+#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="https://i.ibb.co/FzknLM8/SGN-07-05-2023-1688544976106.png" group-title="National ",Metro TV
 https://akm611a-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:0 tvg-id="RTV.Id" tvg-logo="https://i.postimg.cc/3w5qYKPC/Blue-White-Orange-Modern-Business-Workshop-Banner-14.png" " group-title="National ",RTV
+#EXTINF:0 tvg-id="RTV.Id" tvg-logo="https://i.ibb.co/xM2G7fV/SGN-07-05-2023-1688543492858.png" " group-title="National ",RTV
 http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.postimg.cc/fLwCHk9y/Blue-White-Orange-Modern-Business-Workshop-Banner-1.png" group-title="National ",ANTV HD
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.postimg.cc/KYF1CDx0/SGN-07-05-2023-1688545150511.png" group-title="National ",ANTV HD
 https://akm611a-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.postimg.cc/fLwCHk9y/Blue-White-Orange-Modern-Business-Workshop-Banner-1.png" group-title="National ",ANTV SD
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.postimg.cc/KYF1CDx0/SGN-07-05-2023-1688545150511.png" group-title="National ",ANTV SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.postimg.cc/903L1Yyh/Blue-White-Orange-Modern-Business-Workshop-Banner-19.png" group-title="National",TVRI
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/gVNymdF/SGN-07-05-2023-1688545281384.png" group-title="National",TVRI
 https://akm611a-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 
 ########################## MOVIES ##########################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25g1sGGL/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T211223-399.png" group-title="Movies",Star Movies
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155729&extension=ts&play_token=0PPEjDb7oS
-#http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297546
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKRZrXGV/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T211139-233.png" group-title="Movies",Star Movies Select
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155729&extension=ts&play_token=0PPEjDb7oS
-#http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
-#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/267542.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT8qq0qt/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221241-293.png" group-title="Movies",&Prive
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155746&extension=ts&play_token=uG6cJPH2FF
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzr2t9tR/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221140-346.png" group-title="Movies",&Flix
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
-
-
-#EXTINF:0 tvg-id="CinemaChi.Id" tvg-logo="https://i.postimg.cc/dtYgsbNH/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-26-T211037-330.png" group-title="Movies ",CinemaChi
+#EXTINF:0 tvg-id="CinemaChi.Id" tvg-logo="https://i.ibb.co/bbNv6G0/SGN-07-05-2023-1688546326585.png" group-title="MOVIES ",CinemaChi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5 
-#EXTINF:0 tvg-id="CinemaChi Kids.Id" tvg-logo="https://i.postimg.cc/y1h0c0pQ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-26-T202745-626.png" group-title="Movies ",CinemaChi Kids 
+#EXTINF:0 tvg-id="CinemaChi Kids.Id" tvg-logo="https://i.ibb.co/NVq4Mtw/SGN-07-05-2023-1688547316335.png" group-title="MOVIES ",CinemaChi Kids 
 http://202.147.204.118/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5 
-#EXTINF:0 tvg-id="CinemaChi Xtra.Id" tvg-logo="https://i.postimg.cc/Hk4TBsGg/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-26-T203021-051.png" group-title=" Movies ",CinemaChi Xtra 
+#EXTINF:0 tvg-id="CinemaChi Xtra.Id" tvg-logo="https://i.ibb.co/2dXPDry/SGN-07-05-2023-1688547487681.png" group-title=" MOVIES ",CinemaChi Xtra 
 http://202.147.204.118/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5 
-#EXTINF:0 tvg-id="CinemaChi Max.Id" tvg-logo="https://i.postimg.cc/NjzvNyNZ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-26-T203311-603.png" group-title="Movies ",CinemaChi Max 
+#EXTINF:0 tvg-id="CinemaChi Max.Id" tvg-logo="https://i.ibb.co/Rbb8fhs/SGN-07-05-2023-1688547685578.png" group-title="MOVIES ",CinemaChi Max 
 http://202.147.204.118/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5 
-#EXTINF:0 tvg-id="CinemaChi Action.Id" tvg-logo="https://i.postimg.cc/d1SC3jn4/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-26-T203449-962.png" group-title=" Movies ",CinemaChi Action 
+#EXTINF:0 tvg-id="CinemaChi Action.Id" tvg-logo="https://i.ibb.co/r4nvR14/SGN-07-05-2023-1688548152154.png" group-title=" MOVIES ",CinemaChi Action 
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjKqK1dT/Blue-White-Orange-Modern-Business-Workshop-Banner-40.png" group-title="Movies", My Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/484NJF8/SGN-07-05-2023-1688548303605.png" group-title="MOVIES", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://i.postimg.cc/xd6VdCBm/Blue-White-Orange-Modern-Business-Workshop-Banner-41.png", My Cinema Europe
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://i.ibb.co/7yz49JB/SGN-07-05-2023-1688548576857.png", My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.postimg.cc/0NJvQxd2/Blue-White-Orange-Modern-Business-Workshop-Banner-27.png" group-title="Movies",Citra Bioskop 
+#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.ibb.co/71LVjNt/SGN-07-05-2023-1688548804780.png" group-title="MOVIES",Citra Bioskop 
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298519
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw3qZ3td/Blue-White-Orange-Modern-Business-Workshop-Banner-42.png" group-title="Movies", My Family Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKgscb1/SGN-07-05-2023-1688549037958.png" group-title="MOVIES", My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/xdfq7XKN/Blue-White-Orange-Modern-Business-Workshop-Banner-45.png" tvg-id="" tvg-name="" group-title="Movies", Sony Pix 
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.ibb.co/Wvk0Qdr/SGN-07-05-2023-1688549324734.png" tvg-id="" tvg-name="" group-title="MOVIES", Sony Pix 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj9VbW7m/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T194105-404.png" group-title="Movies",SONY MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RR4xMb/SGN-07-05-2023-1688549444875.png" group-title="MOVIES",SONY MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13kddJJT/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T194236-870.png" group-title="Movies",SONY MAX2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg8b8dMC/SGN-07-05-2023-1688575398686.png" group-title="MOVIES",SONY MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="KIX.Id" tvg-logo="https://i.postimg.cc/2S34tXrf/Blue-White-Orange-Modern-Business-Workshop-Banner-39.png" group-title="Movies",KIX
+#EXTINF:0 tvg-id="KIX.Id" tvg-logo="https://i.ibb.co/5j7C75d/SGN-07-05-2023-1688549577302.png" group-title="MOVIES",KIX
 https://akm611a-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://i.postimg.cc/HndYNxcP/Blue-White-Orange-Modern-Business-Workshop-Banner-48.png" group-title="Movies",Warner TV
+#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://i.ibb.co/vQ4QqqN/SGN-07-05-2023-1688549760203.png" group-title="MOVIES",Warner TV
 #https://akm611a-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://i.postimg.cc/HndYNxcP/Blue-White-Orange-Modern-Business-Workshop-Banner-48.png" group-title="Movies",Warner TV
+#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://i.ibb.co/vQ4QqqN/SGN-07-05-2023-1688549760203.png" group-title="MOVIES",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Thrill.Id" tvg-logo="https://i.postimg.cc/VsrWskhb/Blue-White-Orange-Modern-Business-Workshop-Banner-46.png" group-title="Movies",Thrill
+#EXTINF:0 tvg-id="Thrill.Id" tvg-logo="https://i.ibb.co/L13bw1M/SGN-07-05-2023-1688551460735.png" group-title="MOVIES",Thrill
 https://akm611a-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="HitsMovies.Id" tvg-logo="https://i.postimg.cc/02wDvKhz/Blue-White-Orange-Modern-Business-Workshop-Banner-36.png" group-title="Movies",HITS Movies
-https://akm611a-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:0 tvg-id="HitsMOVIES.Id" tvg-logo="https://i.postimg.cc/sXb3Y6W3/SGN-07-05-2023-1688575760042.png" group-title="MOVIES",HITS MOVIES
+https://akm611a-live-cdn.mncnow.id/live/eds/HitsMOVIES/sa_dash_vmx/HitsMOVIES.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="HITS.Id" tvg-logo="https://i.postimg.cc/cHFMKqc6/Blue-White-Orange-Modern-Business-Workshop-Banner-35.png" group-title="Movies",HITS
+#EXTINF:0 tvg-id="HITS.Id" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png" group-title="MOVIES",HITS
 https://akm611a-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://i.postimg.cc/BnV7XKM2/Blue-White-Orange-Modern-Business-Workshop-Banner-25.png" group-title="Movies",Cinema World
+#EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://i.postimg.cc/RZYpVkxC/SGN-07-05-2023-1688551845190.png" group-title="MOVIES",Cinema World
 https://akm611a-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="CelestialMovies.Id" tvg-logo="https://i.postimg.cc/c1kx1DfH/Blue-White-Orange-Modern-Business-Workshop-Banner-23.png" group-title="Movies",Celestial 
+#EXTINF:0 tvg-id="CelestialMOVIES.Id" tvg-logo="https://i.postimg.cc/q7S7wvVf/SGN-07-05-2023-1688552001192.png" group-title="MOVIES",Celestial 
 https://akm611a-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://i.postimg.cc/k5jJVwLf/Blue-White-Orange-Modern-Business-Workshop-Banner-24.png" group-title="Movies",Celestial Classic
+#EXTINF:0 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://i.postimg.cc/DfscqWkT/SGN-07-05-2023-1688552164353.png" group-title="MOVIES",Celestial Classic
 https://akm611a-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://i.postimg.cc/R0WN1NK7/Blue-White-Orange-Modern-Business-Workshop-Banner-47.png" group-title="Movies",tvN Movies
-https://akm611a-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:0 tvg-id="tvNMOVIES.Id" tvg-logo="https://i.postimg.cc/90WzRNHz/SGN-07-05-2023-1688552350828.png" group-title="MOVIES",tvN MOVIES
+https://akm611a-live-cdn.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="ZeeBioskop.Id" tvg-logo="https://i.postimg.cc/PxkTLx4r/Blue-White-Orange-Modern-Business-Workshop-Banner-49.png" group-title="Movies",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZeeBioskop.Id" tvg-logo="https://i.postimg.cc/nz6bNX0x/SGN-07-05-2023-1688552677327.png" group-title="MOVIES",ZEE BIOSKOP
 https://akm611a-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwstXXY/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T172032-969.png" group-title="Movies",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRm6HHhz/SGN-07-05-2023-1688552993200.png" group-title="MOVIES",Zee Cinema HD
 #https://toffee-v2.sabbirhasan.trial.rocks/auto/zee_cinema_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTW5x60/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T172327-483.png" group-title="Movies",B4U Movies
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1369
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTzScg2n/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T172545-868.png" group-title="Movies",Zee Action
-#http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1353
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5rwn68c/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T172802-013.png" group-title="Movies",Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHPs2Jy/SGN-07-05-2023-1688560701436.png" group-title="MOVIES",Zee Bollywood
 #https://toffee-v2.sabbirhasan.trial.rocks/auto/zee_bolly.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkj5B6T/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T173346-082.png" group-title="Movies",&Pictures HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16958
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://i.ibb.co/drJJ0v8/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-21-T000144-181.png" group-title="Movies",Galaxy Premium
+#EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://i.postimg.cc/SxzZtgHn/SGN-07-05-2023-1688553936147.png" group-title="MOVIES",Galaxy Premium
 https://akm611a-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="Galaxy.Id" tvg-logo="https://i.ibb.co/m51qvPt/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-20-T235815-455.png" group-title="Movies",Galaxy
+#EXTINF:0 tvg-id="Galaxy.Id" tvg-logo="https://i.postimg.cc/W1YdhPny/SGN-07-05-2023-1688554070898.png" group-title="MOVIES",Galaxy
 https://akm611a-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="IMC.Id" tvg-logo="https://i.postimg.cc/VLWM5PLw/Blue-White-Orange-Modern-Business-Workshop-Banner-37.png" group-title="Movies",IMC
+#EXTINF:0 tvg-id="IMC.Id" tvg-logo="https://i.postimg.cc/ZKTgqk0p/SGN-07-05-2023-1688554206002.png" group-title="MOVIES",IMC
 https://akm611a-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6LypBY/Blue-White-Orange-Modern-Business-Workshop-Banner-28.png" tvg-id="FLIK.id" tvg-name="FLIK" group-title="Movies",FLIK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px5px5G0/SGN-07-05-2023-1688554329003.png" tvg-id="FLIK.id" tvg-name="FLIK" group-title="MOVIES",FLIK
 #https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165095
 
 
-#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://i.postimg.cc/0N0DKgCD/Blue-White-Orange-Modern-Business-Workshop-Banner-44.png",Rock Action
+#EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.postimg.cc/g2G65DSY/SGN-07-05-2023-1688554464526.png",Rock Action
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:0 tvg-id="AXN.Id" tvg-logo="https://i.postimg.cc/HnYgWMkb/Blue-White-Orange-Modern-Business-Workshop-Banner-21.png" group-title="Movies",AXN
+#EXTINF:0 tvg-id="AXN.Id" tvg-logo="https://i.postimg.cc/k4CrF2Mh/SGN-07-05-2023-1688554573450.png" group-title="MOVIES",AXN
 https://akm611a-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTQGd1m6/Blue-White-Orange-Modern-Business-Workshop-Banner-43.png" group-title="Movies",Paramount Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYK5QG60/SGN-07-05-2023-1688554769600.png" group-title="MOVIES",Paramount Network
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63NDXgDH/Blue-White-Orange-Modern-Business-Workshop-Banner-92.png" group-title="Movies",ACTION FILMBOX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Hn74Dx/SGN-07-05-2023-1688554972645.png" group-title="MOVIES",ACTION FILMBOX
 #http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/286775
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTT1vp2X/Blue-White-Orange-Modern-Business-Workshop-Banner-93.png" group-title="Movies",MOVIE SPHERE
-https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C029Zb9/SGN-07-05-2023-1688557649091.png" group-title="MOVIES",MOVIE SPHERE
+https://MOVIESphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Qv0GKmy/Blue-White-Orange-Modern-Business-Workshop-Banner-94.png" group-title="Movies",BluTV Play 1 (not online 24hours)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG1nksZW/SGN-07-05-2023-1688557886202.png" group-title="MOVIES",BluTV Play 1 (not online 24hours)
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Qv0GKmy/Blue-White-Orange-Modern-Business-Workshop-Banner-94.png" group-title="Movies",BluTV Play 2 (not online 24hours)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG1nksZW/SGN-07-05-2023-1688557886202.png" group-title="MOVIES",BluTV Play 2 (not online 24hours)
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9bVBGzv/Blue-White-Orange-Modern-Business-Workshop-Banner-95.png" group-title="Movies",FOX MOVIES
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/16588.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrpkGyMX/SSN-TIVI-1-1.png" group-title="Movies",FOX ACTION MOVIES
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/283181.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTszZ4ZC/SSN-TIVI-1-2.png" group-title="Movies",ETV BIOSKOP 1 test
-http://www.premiumiptvmk.com:8080/live/myhdosama/cjydA4ncmMqx55pf/298526.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTszZ4ZC/SSN-TIVI-1-2.png" group-title="Movies",ETV BIOSKOP 2 test
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298527
------------------------------HBO ANDROID6----------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSg1xGzc/Blue-White-Orange-Modern-Business-Workshop-Banner-31.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO (Android6)
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197972
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rySqL8Q8/Blue-White-Orange-Modern-Business-Workshop-Banner-34.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Movies",HBO Signature(Android6)
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/221948
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC892Hxh/Blue-White-Orange-Modern-Business-Workshop-Banner-33.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Movies",HBO Hits(Android6)
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/196480
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBZZZCBP/Blue-White-Orange-Modern-Business-Workshop-Banner-32.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Movies",HBO Family(Android6)
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197055
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90szD1Rv/Blue-White-Orange-Modern-Business-Workshop-Banner-26.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Movies",Cinemax(Android6)
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197964
-#http://kuchini.site:8080/live/xplatinum/FnDHVs5XQz2Zs68R/197964.m3u8
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
 
 ---------------HBO HD
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSg1xGzc/Blue-White-Orange-Modern-Business-Workshop-Banner-31.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" tvg-id="HBO.id" tvg-name="HBO" group-title="MOVIES",HBO (Backup)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSg1xGzc/Blue-White-Orange-Modern-Business-Workshop-Banner-31.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO (Backup)
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-
-
-#EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://i.postimg.cc/vBZZZCBP/Blue-White-Orange-Modern-Business-Workshop-Banner-32.png" group-title="Movies",HBO Family 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
-#EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://i.postimg.cc/vBZZZCBP/Blue-White-Orange-Modern-Business-Workshop-Banner-32.png" group-title="Movies",HBO Family (Backup)
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png" group-title="MOVIES",HBO Hits
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png" group-title="MOVIES",HBO Hits (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
-
-
-
-#EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://i.postimg.cc/xC892Hxh/Blue-White-Orange-Modern-Business-Workshop-Banner-33.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
-#EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://i.postimg.cc/xC892Hxh/Blue-White-Orange-Modern-Business-Workshop-Banner-33.png" group-title="Movies",HBO Hits (Backup)
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
+#EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
-
-
-#EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://i.postimg.cc/rySqL8Q8/Blue-White-Orange-Modern-Business-Workshop-Banner-34.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
 
-#EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://i.postimg.cc/rySqL8Q8/Blue-White-Orange-Modern-Business-Workshop-Banner-34.png" group-title="Movies",HBO Signature (Backup)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
-#EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://i.postimg.cc/90szD1Rv/Blue-White-Orange-Modern-Business-Workshop-Banner-26.png" group-title="Movies",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
-
-#EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://i.postimg.cc/90szD1Rv/Blue-White-Orange-Modern-Business-Workshop-Banner-26.png" group-title="Movies",Cinemax (Backup)
+#EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 
-#EXTINF:0 tvg-id="K +" tvg-logo="https://i.postimg.cc/ryJFrVWf/Blue-White-Orange-Modern-Business-Workshop-Banner-38.png" group-title="Movies",K+
+#EXTINF:0 tvg-id="K +" tvg-logo="https://i.postimg.cc/T15ftpW8/SGN-07-05-2023-1688560561637.png" group-title="MOVIES",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-14  group-title="Movies" tvg-logo="https://i.ibb.co/GWXWFvQ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-20-T231136-555.png",Bioskop Indonesia
-#http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/264801.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://i.postimg.cc/pTHPs2Jy/SGN-07-05-2023-1688560701436.png",Bioskop Indonesia
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-14  group-title="Movies" tvg-logo="https://i.ibb.co/GWXWFvQ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-20-T231136-555.png",Bioskop Indonesia
+#EXTINF:-14  group-title="MOVIES" tvg-logo="https://i.postimg.cc/pTHPs2Jy/SGN-07-05-2023-1688560701436.png",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
