@@ -1302,7 +1302,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/index.
 #EXTINF:-1 tvg-id="I-Konser" tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser
 https://beetv.my.id/x/usee-ikonser-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="" group-title="MUSIC",Citra Dangdut
+#EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdQ7IrHN4wXIjZ4xDjtPfOxyD5sUSAISl6w&usqp=CAU" group-title="MUSIC",Citra Dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1321,11 +1321,13 @@ https://bit.ly/42sWhyD?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
 https://bit.ly/3B1M54o?/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png" group-title="MUSIC", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV U
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Classic
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="MUSIC", MTV Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" tvg-id="" tvg-name="", MTV 00s
