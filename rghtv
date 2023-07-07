@@ -9,7 +9,6 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59gCqH5Y/c30378.webp" group-title="LIVE EVENT",14.30 WIB PSS Sleman vs PERSIS Solo - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://kiki4.live-streamfootball.co/
 https://etslive-2-vidio-com.akamaized.net/exp=1688729205~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=2408b8f41a7ae1c61366666de1522d0506cf80613d307b2c92c5662d1311bc0d/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59gCqH5Y/c30378.webp" group-title="LIVE EVENT",14.30 WIB PSS Sleman vs PERSIS Solo - BRI Liga 1(BU)
