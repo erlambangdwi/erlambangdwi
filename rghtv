@@ -3062,6 +3062,9 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #############VOD#############
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9UHA0E9t7Lksocit0INptfyXPYh7PvVRUkQ&usqp=CAU" group-title="VOD",Extraction 1 (2020)
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/02747/3gi0gh3typxy_,n,x,.urlset/master.m3u8?t=99p5je1vUBVoW85i0QteaxRg0nqmw_AVpf7dGwJVU5A&s=1688753061&e=43200&f=13739433&srv=25&asn=140475&sp=2500
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cZOrappUQeCwJRpA7N3wJrixFkDsbAw9N3-9vhbhuzVcNT9c6eIoB-g&s=10" group-title="VOD",Knights of the Zodiac (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
