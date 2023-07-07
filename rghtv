@@ -15,6 +15,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1688729205~acl=/vp9/205_stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59gCqH5Y/c30378.webp" group-title="LIVE EVENT",PSS Sleman vs PERSIS Solo - BRI Liga 1(BU)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k57VbqVF/2ef373.jpg" group-title="LIVE EVENT",18.30 WIB AREMA FC vs PERSIB Bandung - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
