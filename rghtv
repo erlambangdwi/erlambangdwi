@@ -1,4 +1,4 @@
-+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
@@ -22,9 +22,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k57VbqVF/2ef373.jpg" group-title="LIVE EVENT" group-title="LIVE EVENT",18.30 WIB AREMA FC vs PERSIB Bandung - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://idn28.score808.world/
+#EXTVLCOPT:http-referrer=https://dora1.live-streamfootball.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://ppp3-cf.ddi2ank3.cc/auth%3D1ad658727f6957a8e645dd9de5c21c8ecad928a2fe150290cf4682f05cca9baca006372457300fefb4a34f3a79deb02b1a8b4c03145748745a24a126d2f2b4ca2d06e6639e086492193aadd9023025e937564a22d80b13efe06cbfe25f7438301dc98186d32dfe518b2e2596ef3524a1f83dfdba7a91cdadcb4e43ab9ff4713601ed0de348081f6953a32c20f3dfe71eddca0b132ade800739880b9f893a4eec1da61abed62afab2b8ac0362078fd2f3c9864692a6186f5c1331bc32f5be743445776b34155cc5b39533bfa27e195674c867f6ee31e7095e680cb21a53f7a45b2fbeb7512ceb1fdf0cf253dbbce1d9ae74fc037a4b033d7ef4a455df8b350c07%26cid%3DQUnMoOL-jsO-eh1OMr8qP230706%26_v%3D2%26_r%3Dl5iFOr%26_vis%3D20ca0f5165346a7add2e0a2cf0a7d76724aaf9b3d09d8b23da2cbafe67849a7f%26_vvs%3Df39852ff6ebdd1984b397665dd54e586aee8dd058a965905adc6a567f742bc1b/app/c190006.m3u8
+https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3945716.m3u8
+
 
 ########################## NATIONAL TV ##########################
 
