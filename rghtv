@@ -39,14 +39,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3918859.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Uln0I70lJIJAOa2-zt0VWCGbhAY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13558/bri-liga-1-cover-6d3b7d.jpg
-" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Uln0I70lJIJAOa2-zt0VWCGbhAY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13558/bri-liga-1-cover-6d3b7d.jpg" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Uln0I70lJIJAOa2-zt0VWCGbhAY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13558/bri-liga-1-cover-6d3b7d.jpg
-" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1(BU)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Uln0I70lJIJAOa2-zt0VWCGbhAY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13558/bri-liga-1-cover-6d3b7d.jpg" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1(BU)
 #EXTVLCOPT:http-referrer=https://dora2.live-streamfootball.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
 https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3918859.m3u8
