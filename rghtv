@@ -22,9 +22,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k57VbqVF/2ef373.jpg" group-title="LIVE EVENT" group-title="LIVE EVENT",18.30 WIB AREMA FC vs PERSIB Bandung - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://idn27.score808.world/
+#EXTVLCOPT:http-referrer=https://idn28.score808.world/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://ppp3-cf.ddi2ank3.cc/auth%3D72de657514fb2ee243d07341d0b923e3e7e9c37a17e0730297c59f51b5ac9455b60cfbbc23f2b441d03b8395ffcfe2bd1370a9fda1f256f8f893b18eece6acca9a7086dd6166815f16c7e9b9b93cf913c4db6c99245b915967e2f37053e6587defdf1b79e8b5383a44cf000e3ef148040ec584c385727b6ad2c9b0d1a87f93a80194e1d68d76d8b949af99a2430fadb2bc9c0f9b1eed497c9742c8b1a3aa8c1f178e75c4266addd467858f3eb09d0467%26cid%3DCJX8PJSOLBnuufg3Rxdwk230704%26_v%3D2%26_r%3DlGyk7Z%26_vis%3D4ea33356efbda937bcdb531c6b439e11b86824b8c81fcf6ba1a277bed924402f%26_vvs%3D82a6597c5e03c6d8c7d3cbfe950d814842557a8c92cd7d5f554a32186e27ab42/app/c190006.m3u8
+https://ppp3-cf.ddi2ank3.cc/auth%3D1ad658727f6957a8e645dd9de5c21c8ecad928a2fe150290cf4682f05cca9baca006372457300fefb4a34f3a79deb02b1a8b4c03145748745a24a126d2f2b4ca2d06e6639e086492193aadd9023025e937564a22d80b13efe06cbfe25f7438301dc98186d32dfe518b2e2596ef3524a1f83dfdba7a91cdadcb4e43ab9ff4713601ed0de348081f6953a32c20f3dfe71eddca0b132ade800739880b9f893a4eec1da61abed62afab2b8ac0362078fd2f3c9864692a6186f5c1331bc32f5be743445776b34155cc5b39533bfa27e195674c867f6ee31e7095e680cb21a53f7a45b2fbeb7512ceb1fdf0cf253dbbce1d9ae74fc037a4b033d7ef4a455df8b350c07%26cid%3DQUnMoOL-jsO-eh1OMr8qP230706%26_v%3D2%26_r%3Dl5iFOr%26_vis%3D20ca0f5165346a7add2e0a2cf0a7d76724aaf9b3d09d8b23da2cbafe67849a7f%26_vvs%3Df39852ff6ebdd1984b397665dd54e586aee8dd058a965905adc6a567f742bc1b/app/c190006.m3u8
+
 ########################## NATIONAL TV ##########################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
