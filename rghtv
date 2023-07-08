@@ -34,7 +34,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1688832584~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=38db1ddb8bbfdd4bdd695e02245a49c31c121117cd8060a15f061fab167c1260/vp9/13610_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6Wtasm53_lRecXKwHJ5BL82X63o=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2777256/aab2e2.jpg" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1688832584~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=38db1ddb8bbfdd4bdd695e02245a49c31c121117cd8060a15f061fab167c1260/vp9/13610_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1688830576~acl=/hls-p/ingest_13558_*/*~hmac=44b5bd910a6104a82dee8aa618305b252ed2c94433302b10ad55838770176be6/hls-p/ingest_13558_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6Wtasm53_lRecXKwHJ5BL82X63o=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2777256/aab2e2.jpg" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1(BU)
 https://etslive-2-vidio-com.akamaized.net/exp=1688831180~acl=/hls-p/ingest_205_*/*~hmac=521275a47f934f51627a62982fc9929efe492ea258c415debde06ad3efd04be5/hls-p/ingest_205_720p/index.m3u8
