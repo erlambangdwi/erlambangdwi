@@ -9,9 +9,7 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5418HzcMa_yzrfajDojlhKEX5B4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2772964/d1e75e.jpg" group-title="LIVE EVENT",14.30 WIB PERSEBAYA Surabaya VS PS Barito Putera - BRI Liga 1BRI LIGA 1
-#EXTVLCOPT:http-referrer=https://kiki5.live-streamfootball.co/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3935542.m3u8
+https://wbtq7m6mk7qtg8pp.cdnspectrum.net:8443/hls/0wje78vzw.m3u8?s=iuk9Bm4WjhYI_K6F-KulmQ&e=1688826584|Referer=https://abolishstand.net/
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5418HzcMa_yzrfajDojlhKEX5B4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2772964/d1e75e.jpg" group-title="LIVE EVENT",14.30 WIB PERSEBAYA Surabaya VS PS Barito Putera - BRI Liga 1BRI LIGA 1(BU)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
