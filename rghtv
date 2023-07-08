@@ -39,9 +39,7 @@ http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6Wtasm53_lRecXKwHJ5BL82X63o=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2777256/aab2e2.jpg" group-title="LIVE EVENT",19.00 WIB Borneo FC Samarinda vs Bali United FC - BRI Liga 1(BU)
-#EXTVLCOPT:http-referrer=https://dora2.live-streamfootball.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3918859.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1688831180~acl=/hls-p/ingest_205_*/*~hmac=521275a47f934f51627a62982fc9929efe492ea258c415debde06ad3efd04be5/hls-p/ingest_205_720p/index.m3u8
 
 
 
