@@ -22,9 +22,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://play2-cf.ddi2ank3.cc/auth%3D60b2f940a122db1179d29d829a4d5365af89e3694275d5395a80327c9e6c8276bc26d5817400b82ee6875550dfbd290442a556174176c4d57ba03ac393da40c19fdae24b8b931f4fb80ccb02abc6bc0bd67790850143573ec0575ec896c8be6fced6882a6989ba0c9654ca233889e45b2e743f396ae94ef4384d08edbe65d1e51de728213eba81e520fb24c0cc750d9cb8510d6c7de6934b15389c65aca88ca7c70c7575bb0c61f14fd58773fe62cf30e7362f2c4d521a90c01a02c1b47d9894%26cid%3DiAC8-18puCVHIqGa0iqjC230706%26_v%3D2%26_r%3D4XuEfQ%26_vis%3Df7980c2f235398f85f05f4362330b491156e01b8a2778b7264fa2ae4a6f7ef0e%26_vvs%3Da75139c6398d3d4dbe9c2cc7b70f7a6ea07d882bd8337bd8785d7609dd3a6b25/app/c190205.m3u8|Referer=https://idn28.score808.world/
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QOqLRZn0jFV4QSaNT8NmCqTiyZI=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13560/bri-liga-1-cover-d43d6e.jpg" group-title="LIVE EVENT",14.30 WIB PSM Makassar vs Dewa United FC(BU)
-#EXTVLCOPT:http-referrer=https://dora1.live-streamfootball.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3945716.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stripriv.herokuapp.com/drm.php?id=13559
+https://stripriv.herokuapp.com/dash.mpd?id=13559
+#https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099103
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y2gefMfNAeP0x7-oQRdfHJQkLg8=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-218229.jpg" group-title="LIVE EVENT",19.00 WIB PERSITA Tangerang vs PSIS Semarang - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
