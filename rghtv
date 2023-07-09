@@ -8,29 +8,8 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qxq99t0GOkHsIRhTEeewD9SYaO4=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2772619/b0220e.jpg" group-title="LIVE EVENT",14.30 WIB Madura United FC vs PERSIK Kediri - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1688902447~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=0e090241fe58f27f8c9cb2056360386e4edc894e1ff07e2a90fb8ce10b7404d7/vp9/205_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qxq99t0GOkHsIRhTEeewD9SYaO4=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2772619/b0220e.jpg" group-title="LIVE EVENT",14.30 WIB Madura United FC vs PERSIK Kediri - BRI Liga 1(BU)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LUDE8pEyohdCuXAwCjrlbTNi3Zw=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13559/bri-liga-1-cover-a3f173.jpg" group-title="LIVE EVENT",18.30 WIB PERSIKABO 1973 vs PERSIJA Jakarta - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LUDE8pEyohdCuXAwCjrlbTNi3Zw=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13559/bri-liga-1-cover-a3f173.jpg" group-title="LIVE EVENT",18.30 WIB PERSIKABO 1973 vs PERSIJA Jakarta - BRI Liga 1(BU)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stripriv.herokuapp.com/drm.php?id=13559
-https://stripriv.herokuapp.com/dash.mpd?id=13559
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CA5pviR9tOwcJQip8XYkUE5MX10=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-1d66b9.jpg" group-title="LIVE EVENT",19.00 WIB Bhayangkara Presisi Indonesia FC vs RANS Nusantara FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1688918517~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=fcd1890c68639c5d26b096d1611d4a090f636965e3a8a3ef5e20cbe444a9c926/vp9/13561_stream.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CA5pviR9tOwcJQip8XYkUE5MX10=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-1d66b9.jpg" group-title="LIVE EVENT",19.00 WIB Bhayangkara Presisi Indonesia FC vs RANS Nusantara FC - BRI Liga 1(BU)
-https://etslive-2-vidio-com.akamaized.net/exp=1688918517~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=fcd1890c68639c5d26b096d1611d4a090f636965e3a8a3ef5e20cbe444a9c926/vp9/13561_stream.mpd
 
 
 ########################## NATIONAL TV ##########################
