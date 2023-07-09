@@ -27,12 +27,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://stripriv.herokuapp.com/dash.mpd?id=13559
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CA5pviR9tOwcJQip8XYkUE5MX10=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-1d66b9.jpg" group-title="LIVE EVENT",19.00 WIB Bhayangkara Presisi Indonesia FC vs RANS Nusantara FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1688918517~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=fcd1890c68639c5d26b096d1611d4a090f636965e3a8a3ef5e20cbe444a9c926/vp9/13561_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CA5pviR9tOwcJQip8XYkUE5MX10=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-1d66b9.jpg" group-title="LIVE EVENT",19.00 WIB Bhayangkara Presisi Indonesia FC vs RANS Nusantara FC - BRI Liga 1(BU)
-https://etslive-2-vidio-com.akamaized.net/exp=1688840209~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=dc9bc25b1e88f3000891b2ec243853d289a2ac767afe29122bfc2558f3a346b4/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1688918517~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=fcd1890c68639c5d26b096d1611d4a090f636965e3a8a3ef5e20cbe444a9c926/vp9/13561_stream.mpd
 
 
 ########################## NATIONAL TV ##########################
