@@ -8,9 +8,31 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF: -1 tvg-id="LIVE EVENT" tvg-name="LIVE EVENT" tvg-logo="https://i.postimg.cc/Ls3PMgmq/SGN-07-12-2023-1689168940516.png" group-title="LIVE EVENT",AVC CHALLANGE
-https://sssssssatwe-ba9c9a67baf4.herokuapp.com/avc.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1(BU)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi728B3INT_pSnY6JRi2Wvt4FMqszCGZfWwQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Persikabo 1973 vs PSM MakassarPSM Makassar - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi728B3INT_pSnY6JRi2Wvt4FMqszCGZfWwQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Persikabo 1973 vs PSM MakassarPSM Makassar - BRI Liga 1(BU)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmWzw6LesY9XFAUadDW_8eDcgfrmtJtb5Vw&usqp=CAU" group-title="LIVE EVENT",19.00 WIB Persib Bandung vs Dewa United - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stripriv.herokuapp.com/drm.php?id=13559
+https://stripriv.herokuapp.com/dash.mpd?id=13559
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmWzw6LesY9XFAUadDW_8eDcgfrmtJtb5Vw&usqp=CAU" group-title="LIVE EVENT",19.00 WIB Persib Bandung vs Dewa United - BRI Liga 1(BU)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 ########################## NATIONAL TV ##########################
