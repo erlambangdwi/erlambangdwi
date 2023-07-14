@@ -9,7 +9,7 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1
-https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1689334215~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=6f178bc4af96133e9f3ef6426dfed4992b23c7c1e65786e34c21e9bdee694505/vp9/13561_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1(BU)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
