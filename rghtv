@@ -126,9 +126,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://i.ibb.co/YcTJ1m0/SGN-07-05-2023-1688543033253.png" group-title="National ",iNEWS (RCTI+)
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV FHD
-#http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
+#EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National",SCTV FHD
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/sctv.m3u8
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV SD
 http://103.152.118.53:80/streams/esceteve_2/index.m3u8
