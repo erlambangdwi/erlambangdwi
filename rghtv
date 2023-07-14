@@ -139,12 +139,12 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1689348267~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=4de6b16174a36ff423435a3ad83561ff8df10d79d86ed26694f4988669d20e41/vp9/205_stream.mpd
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR LIVE
-http://103.152.118.53:80/streams/indosiar_2/index.m3u8
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
-#http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium2/index.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
