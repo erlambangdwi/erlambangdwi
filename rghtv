@@ -158,7 +158,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 #http://watchlive.my.id/sa_dash_vmx/RTV.mpd
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/6Qh4PTgS/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI FHD
-http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298550
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/moji.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/6Qh4PTgS/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/moji.m3u8
