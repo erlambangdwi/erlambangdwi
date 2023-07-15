@@ -430,9 +430,11 @@ http://103.152.118.53:80/streams/trans/3/4028c6856c3db2cc016d0552e0ca37a2/manife
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png",Cinemax
+https://cubmutesting.apiv2x.workers.dev/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/streams/trans/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=apiv2
+#EXTVLCOPT:http-referrer=https://t.me/chatapiptv2_bot
 
 #EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
