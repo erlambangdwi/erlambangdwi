@@ -129,7 +129,7 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1689348267~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=4de6b16174a36ff423435a3ad83561ff8df10d79d86ed26694f4988669d20e41/vp9/205_stream.mpd
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR LIVE
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
