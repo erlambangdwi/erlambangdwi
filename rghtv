@@ -390,9 +390,11 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 ---------------HBO HD
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png",HBO
+https://cubmutesting.apiv2x.workers.dev/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/streams/trans/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=apiv2
+#EXTVLCOPT:http-referrer=https://t.me/chatapiptv2_bot
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" tvg-id="HBO.id" tvg-name="HBO" group-title="MOVIES",HBO (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -400,9 +402,11 @@ http://103.152.118.53:80/streams/trans/3/4028c6856b6088c3016b87d64b970b53/manife
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png",HBO Family
+https://cubmutesting.apiv2x.workers.dev/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/streams/trans/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=apiv2
+#EXTVLCOPT:http-referrer=https://t.me/chatapiptv2_bot
 
 #EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -410,9 +414,11 @@ http://103.152.118.53:80/streams/trans/4/4028c6856c3db2cc016d055927fe37a4/manife
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png",HBO Hits
+https://cubmutesting.apiv2x.workers.dev/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/streams/trans/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=apiv2
+#EXTVLCOPT:http-referrer=https://t.me/chatapiptv2_bot
 
 #EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png" group-title="MOVIES",HBO Hits (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -420,9 +426,11 @@ http://103.152.118.53:80/streams/trans/4/4028c6856c3db2cc016d054fbf67379f/manife
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png",HBO Signature
+https://cubmutesting.apiv2x.workers.dev/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/streams/trans/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=apiv2
+#EXTVLCOPT:http-referrer=https://t.me/chatapiptv2_bot
 
 #EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
