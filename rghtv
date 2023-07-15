@@ -12,9 +12,9 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1689421218~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=2d96b5f532587b36bb26d23cb5c21b4f2930ce29f89c25cac924d76a55aade87/vp9/13610_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xwDkAgEKC0MVntwzHkpb1Wvrx9w=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2793612/c2f17c.jpg" group-title="LIVE EVENT",15.00 WIB PERSIK Kediri vs AREMA FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hLkEgoN_7iBgDWLsgoGxQ7LrTgg=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-e8c189.jpg" group-title="LIVE EVENT",19.00 WIB PERSIS Solo vs Borneo FC Samarinda - BRI Liga 1
 https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
