@@ -8,31 +8,21 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689334215~acl=/vp9/13561_stream.mpd!/vp9/13561/*!/vp9/*/13561_stream.mpd!/vp9/*/13561/*~hmac=6f178bc4af96133e9f3ef6426dfed4992b23c7c1e65786e34c21e9bdee694505/vp9/13561_stream.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TwiDgdcD0MlFn4sonLNPXa899VE=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-f10c07.jpg" group-title="LIVE EVENT",14.30 WIB RANS Nusantara FC vs PERSITA Tangerang - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3LodJtktvdV8seByqOMimlXqxg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/13561/bri-liga-1-c4f65e.jpg" group-title="LIVE EVENT",14.30 WIB Barito Putera vs PSS Sleman - BRI Liga 1(BU)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi728B3INT_pSnY6JRi2Wvt4FMqszCGZfWwQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Persikabo 1973 vs PSM MakassarPSM Makassar - BRI Liga 1
-https://01fhls.rbtv77.vip/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-1-3945725.m3u8|Referer=https://hksc4ctu.buzz/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi728B3INT_pSnY6JRi2Wvt4FMqszCGZfWwQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Persikabo 1973 vs PSM MakassarPSM Makassar - BRI Liga 1(BU)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmWzw6LesY9XFAUadDW_8eDcgfrmtJtb5Vw&usqp=CAU" group-title="LIVE EVENT",19.00 WIB Persib Bandung vs Dewa United - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xwDkAgEKC0MVntwzHkpb1Wvrx9w=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2793612/c2f17c.jpg" group-title="LIVE EVENT",15.00 WIB PERSIK Kediri vs AREMA FC - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdnhks.lol/lb/premium2/index.m3u8
+https://webudit.cdnhks.lol/lb/premium11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmWzw6LesY9XFAUadDW_8eDcgfrmtJtb5Vw&usqp=CAU" group-title="LIVE EVENT",19.00 WIB Persib Bandung vs Dewa United - BRI Liga 1(BU)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hLkEgoN_7iBgDWLsgoGxQ7LrTgg=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-e8c189.jpg" group-title="LIVE EVENT",19.00 WIB PERSIS Solo vs Borneo FC Samarinda - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jbePH5yKBygLBNeRQ6VxYoZnieY=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2791515/5c8118.jpg" group-title="LIVE EVENT",19.00 WIB Bali United FC VS Madura United FC - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium11/index.m3u8
 
 
 ########################## NATIONAL TV ##########################
