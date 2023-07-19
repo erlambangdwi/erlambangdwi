@@ -3640,7 +3640,15 @@ http://23.226.71.77/DMSUP0YuroIlqBm1JSMH6FqWmEeR5r9Br-y0II1rSmiD5sVC5Q6CPVANX1Um
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
 http://23.226.71.77/cS-XExivOQkPl5wajj6_sJt-ikS4xyfAEmWnLzYHirhmyz8-RSLeyFuurQX_CiRJzM-A_ZuLXCDkik5iBWaKmw/HVFjCsOwOYsop_VenaIz1F26gXsymLiqXvGGVf9ueY0/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/hidayah-2022_200_293.webp" group-title="VOD",Hidayah(2023)
+https://ioe291l.dood.video/u5kj6a4polelsdgge7vdoparj6faoxe2punwpvmriavrptiystk5ygznagza/bo0ughtjxt~aO1AqY91s5?token=vl8sx5kb6km2kqjc39b6e9bl&expiry=1689732831136|Referer=https://doooood.com/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/77/Poster_Waktu_Maghrib.jpg" group-title="VOD",Waktu Maghrib (2023)
+https://kl296w.dood.video/u5kj6bhap3elsdgge6ztojy6kb6ndnwqggwcmklue2d73l574iamsrd7qbuq/j60jgz5ltu~RZn1BubYJV?token=dcshoelyyoie273fzdwr3ix8&expiry=1689733679426|Referer=https://doooood.com/
+
+
 #############VOD2##############
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiM0LrNin0BF8cBXqXO_ZiyPzm0A10EoxIg&usqp=CAU" group-title="VOD2",The Covenant (2023)
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/04036/nywsqe6hfpst_,n,h,.urlset/master.m3u8?t=8rueCVJ08R1cJlCyDBaZem85CouGXn4Exu9TEfgecsY&s=1688652820&e=43200&f=20181684&srv=24&asn=140475&sp=2000
