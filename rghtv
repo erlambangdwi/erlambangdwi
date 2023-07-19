@@ -1083,7 +1083,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/D1wN6wY/SGN-07-08-2023-1688793662903.png",Sports Stars1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/D1wN6wY/SGN-07-08-2023-1688793662903.png",Sports Stars 1
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
