@@ -3647,10 +3647,14 @@ http://23.226.71.77/DMSUP0YuroIlqBm1JSMH6FqWmEeR5r9Br-y0II1rSmiD5sVC5Q6CPVANX1Um
 http://23.226.71.77/cS-XExivOQkPl5wajj6_sJt-ikS4xyfAEmWnLzYHirhmyz8-RSLeyFuurQX_CiRJzM-A_ZuLXCDkik5iBWaKmw/HVFjCsOwOYsop_VenaIz1F26gXsymLiqXvGGVf9ueY0/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/hidayah-2022_200_293.webp" group-title="VOD",Hidayah(2023)
-https://hls27-eu.zcdn.stream/927a6f9759437d0801f523fab13606f0/2023-07-15/video.m3u8?auth=e48ef0f410b75f17cdd9a3438f7c42af&expires=1689764444&type=edge&node=kTWgRwi_in90hbpZnZ3ZodoSsbxaYjRJs6QuhavwjTbL4CkYGQibHUCJsGqIs058KBK7LepdOj5tu7RhAfAn_x11KRPvKS9nO7P8XcA6lbw
+#EXTVLCOPT:http-referer=hhtps://bestx.stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://hls27-eu.zcdn.stream/927a6f9759437d0801f523fab13606f0/2023-07-15/video.m3u8?auth=54bf55139344398669b6028cb0812c39&expires=1689768232&type=edge&node=DYEqFql-Ip9Xru87kITak6rj-HxSKaFPdDHlreiNBhDX0vii8t9Xkbckjc6c2qoMUG8Rvam0Wvjd5U7QX9OxN6AdLIEucw7K1aeYJUwkT3w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/77/Poster_Waktu_Maghrib.jpg" group-title="VOD",Waktu Maghrib (2023)
-https://hls27-eu.zcdn.stream/e7d90f5da12dc13e46b17cfe0791047a/2023-07-13/video.m3u8?auth=bb9dba20f899f827a13afab5fefb681b&expires=1689765115&type=edge&node=7CgAG5N3r3yaH8Ae_DcUwReN3TW645Ii6d7IyKWr-skNJ2xKRPPSTlkF3fAf85_A2SFSjHaBWrA3AwHIrLS5AaR7RAWjtEGkVX20PuC-By8
+#EXTVLCOPT:http-referer=hhtps://bestx.stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://hls26-eu.zcdn.stream/8c93d5ba99c27880c7860dff8236096b/2023-07-12/video.m3u8?auth=386e5d15e102a757201eca031cd87a12&expires=1689782209&type=edge&node=6qtQNgmmBVDpOCTqixCSPjAzmAxzrFDicsuSL9SRB3qQxWWekIRDL4pwTdD0BIZpqmuJ-sEiFTjCkscfIpWyW-5yoPT_WYV1brgNcbljZRM
 
 
 #############VOD2##############
