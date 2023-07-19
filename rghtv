@@ -464,7 +464,13 @@ themeButton.addEventListener('click', () => {
 
 ########################## LIVE EVENT ##########################
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjtNSF7cLDmzI8XecF56_ZZHKURSb67kZog&usqp=CAU" group-title="LIVE EVENT",MANCHESTER UNITED VS OLYMPIQUE LYONNAIS (20.00 WIB)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7qb0zjlJW7wo3pgOao_tBu8AAT8zMyEeyw&usqp=CAU" group-title="LIVE EVENT",karlsruher vs liverpool (23.30 WIB)
+#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://ddy1.cdnhks.lol/ddy1/premium826/tracks-v1a1/mono.m3u8
 
 
 
