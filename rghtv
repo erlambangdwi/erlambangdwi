@@ -464,13 +464,17 @@ themeButton.addEventListener('click', () => {
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjtNSF7cLDmzI8XecF56_ZZHKURSb67kZog&usqp=CAU" group-title="LIVE EVENT",20.00 WIB MANCHESTER UNITED VS OLYMPIQUE LYONNAIS
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IDVPOkBz7wNOP6EL7mgMP0KVZ0Q=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2800718/3dc3d4.jpg" group-title="LIVE EVENT",15.00 WIB PSS Sleman vs PSIS Semarang - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7qb0zjlJW7wo3pgOao_tBu8AAT8zMyEeyw&usqp=CAU" group-title="LIVE EVENT",23.30 WIB KALSRUHER VS LIVERPOOL
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://ddy1.cdnhks.lol/ddy1/premium826/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u2gB8EiXKIs9b8gBN4VJ8sI5RbU=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-bc29d4.jpg" group-title="LIVE EVENT",15.00 WIB Borneo FC Samarinda vs PS Barito Putera - BRI Liga 1
+https://webudit.cdnhks.lol/lb/premium2/index.m3u8|Referer=https://ntuplay.xyz/
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F3suEEBz3kv3-AXooDX1sQVv6O8=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-79e83c.jpg" group-title="LIVE EVENT",19.00 Dewa United FC vs PERSIK Kediri - BRI Liga 1
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GKABxWP5FzJTW4FQDx3thHZZ_0M=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2803525/c5dcfe.jpg" group-title="LIVE EVENT",19.00 WIB AREMA FC vs Bali United FC - BRI Liga 1
+https://webudit.cdnhks.lol/lb/premium2/index.m3u8|Referer=https://ntuplay.xyz/
 
 
 
