@@ -14,9 +14,7 @@
 https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5481YyPsnHQJZxPes104kvvldshpjClPSg&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Borneo FC Samarinda vs PS Barito Putera - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://stripriv.herokuapp.com/drm.php?id=205
-https://stripriv.herokuapp.com/dash.mpd?id=205
+https://etslive-2-vidio-com.akamaized.net/exp=1681406177~acl=/hls-p/ingest_9302_*/*~hmac=1823e5499523a84bcef56bc6c44d891b97be0a3f250e6c48425245fc47787827/hls-p/ingest_9302_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-REteJqE6e3a3ikoDlnIi0QfGpKcYwdqYw&usqp=CAU" group-title="LIVE EVENT",19.00 Dewa United FC vs PERSIK Kediri - BRI Liga 1
 https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
