@@ -14,7 +14,9 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1689938601~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=b2fd2782b03eea3a42dbb4668cff2880e1f02f2fa2c47a5875e348b02dd9c9c2/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5481YyPsnHQJZxPes104kvvldshpjClPSg&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Borneo FC Samarinda vs PS Barito Putera - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689939387~acl=/vp9/13797_stream.mpd!/vp9/13797/*!/vp9/*/13797_stream.mpd!/vp9/*/13797/*~hmac=7873802d847a86b06253bb5035e168f0dc52baf64bba7d8167fe7fa87957957e/vp9/13797_stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://stripriv.herokuapp.com/drm.php?id=205
+https://stripriv.herokuapp.com/dash.mpd?id=205
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-REteJqE6e3a3ikoDlnIi0QfGpKcYwdqYw&usqp=CAU" group-title="LIVE EVENT",19.00 Dewa United FC vs PERSIK Kediri - BRI Liga 1
 https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
