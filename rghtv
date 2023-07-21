@@ -11,7 +11,7 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHV2z9Fw3HV7HNDyfB_wGNXZd920wXgbBIQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB PSS Sleman vs PSIS Semarang - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689938601~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=b2fd2782b03eea3a42dbb4668cff2880e1f02f2fa2c47a5875e348b02dd9c9c2/vp9/205_stream.mpd
+https://sssssssatwe-ba9c9a67baf4.herokuapp.com/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5481YyPsnHQJZxPes104kvvldshpjClPSg&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Borneo FC Samarinda vs PS Barito Putera - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=widevine
