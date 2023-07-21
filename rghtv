@@ -17,7 +17,7 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 https://etslive-2-vidio-com.akamaized.net/exp=1681406177~acl=/hls-p/ingest_9302_*/*~hmac=1823e5499523a84bcef56bc6c44d891b97be0a3f250e6c48425245fc47787827/hls-p/ingest_9302_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-REteJqE6e3a3ikoDlnIi0QfGpKcYwdqYw&usqp=CAU" group-title="LIVE EVENT",19.00 Dewa United FC vs PERSIK Kediri - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689956191~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=5acfd4c3f4303a5c91dadcac76b3fc3facaf203a89b5bac8e8c48e84aaeb585b/vp9/13610_st
+https://etslive-2-vidio-com.akamaized.net/exp=1689957407~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=1e4883a176fcfc7800eecdc841741949b1ebde960f175306b4bcc9ea7cfcec98/vp9/13610_stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMtvzSLPShVjurf1pewklWOvapidI61rg4w&usqp=CAU" group-title="LIVE EVENT",19.00 WIB AREMA FC vs Bali United FC - BRI Liga 1
