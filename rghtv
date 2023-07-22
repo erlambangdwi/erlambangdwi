@@ -11,9 +11,9 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w8YayPXL_eFNigWU_bl3Jw_0BmI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810086/e6988e.jpg" group-title="LIVE EVENT",15.00 WIB PERSITA Tangerang vs PERSIJA Jakarta - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdnhks.lol/lb/premium1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
+https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jwLaad4_hpayN307mvktJGRZsKs=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810125/94e2d2.jpg" group-title="LIVE EVENT",18.30 WIB PSM Makassar vs PERSIB Bandung - BRI Liga 1
 #EXTVLCOPT:http-referrer=https://qwebplay.xyz/
