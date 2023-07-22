@@ -261,16 +261,16 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.ibb.co/71LVjNt/SGN-07-05-2023-1688548804780.png" group-title="MOVIES",Citra Bioskop 
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298519
 
-#EXTINF:-1 tvg-name="Etv Bioskop 1" tvg-logo="https://i.imgur.com/xEfY8c5.png" group-title="MOVIES",ID: Etv Bioskop 1
+#EXTINF:-1 tvg-name="Etv Bioskop 1" tvg-logo="https://i.imgur.com/xEfY8c5.png" group-title="MOVIES",ETV Bioskop 1
 http://kuchini.site:8080/devtv/5af3eeb538/298526
 
-#EXTINF:-1 tvg-name="Etv Bioskop 02" tvg-logo="https://i.imgur.com/Si35MZE.png" group-title="MOVIES",ID: Etv Bioskop 2
+#EXTINF:-1 tvg-name="Etv Bioskop 02" tvg-logo="https://i.imgur.com/Si35MZE.png" group-title="MOVIES",ETV Bioskop 2
 http://kuchini.site:8080/devtv/5af3eeb538/298527
 
-#EXTINF:-1 tvg-name="Etv Bioskop 03" tvg-logo="https://i.imgur.com/8MYG6eU.png" group-title="MOVIES",ID: Etv Bioskop 3
+#EXTINF:-1 tvg-name="Etv Bioskop 03" tvg-logo="https://i.imgur.com/8MYG6eU.png" group-title="MOVIES",ETV Bioskop 3
 http://kuchini.site:8080/devtv/5af3eeb538/298528
 
-#EXTINF:-1 tvg-name="Etv Bioskop 04" tvg-logo="https://i.imgur.com/g5ag4En.pngU" group-title="MOVIES",ID: Etv Bioskop 4
+#EXTINF:-1 tvg-name="Etv Bioskop 04" tvg-logo="https://i.imgur.com/g5ag4En.pngU" group-title="MOVIES",ETV Bioskop 4
 http://kuchini.site:8080/devtv/5af3eeb538/298529
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
