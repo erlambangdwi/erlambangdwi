@@ -10,20 +10,20 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHV2z9Fw3HV7HNDyfB_wGNXZd920wXgbBIQ&usqp=CAU" group-title="LIVE EVENT",15.00 WIB PSS Sleman vs PSIS Semarang - BRI Liga 1
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w8YayPXL_eFNigWU_bl3Jw_0BmI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810086/e6988e.jpg" group-title="LIVE EVENT",15.00 WIB PERSITA Tangerang vs PERSIJA Jakarta - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5481YyPsnHQJZxPes104kvvldshpjClPSg&usqp=CAU" group-title="LIVE EVENT",15.00 WIB Borneo FC Samarinda vs PS Barito Putera - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1681406177~acl=/hls-p/ingest_9302_*/*~hmac=1823e5499523a84bcef56bc6c44d891b97be0a3f250e6c48425245fc47787827/hls-p/ingest_9302_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jwLaad4_hpayN307mvktJGRZsKs=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810125/94e2d2.jpg" group-title="LIVE EVENT",18.30 WIB PSM Makassar vs PERSIB Bandung - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-REteJqE6e3a3ikoDlnIi0QfGpKcYwdqYw&usqp=CAU" group-title="LIVE EVENT",19.00 Dewa United FC vs PERSIK Kediri - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689957407~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=1e4883a176fcfc7800eecdc841741949b1ebde960f175306b4bcc9ea7cfcec98/vp9/13610_stream.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMtvzSLPShVjurf1pewklWOvapidI61rg4w&usqp=CAU" group-title="LIVE EVENT",19.00 WIB AREMA FC vs Bali United FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3_T8CJGCxuJAE32bZBUjtQLWa5o=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-73e703.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs PERSIKABO 1973 - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?deviceId=e88097867fde4373b09e823492ae803ad8e5bda1802c9cca6dfa443abda337f0
+https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
 
 
 
