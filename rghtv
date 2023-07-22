@@ -21,9 +21,7 @@ https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f
 https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3_T8CJGCxuJAE32bZBUjtQLWa5o=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-73e703.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs PERSIKABO 1973 - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?deviceId=e88097867fde4373b09e823492ae803ad8e5bda1802c9cca6dfa443abda337f0
-https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1690040488~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=bc51855575bf997c7ffe61050c4b5e2174f05f3d4961d1e72f7a28cd391b7529/vp9/13610_stream.mpd
 
 
 
