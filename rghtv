@@ -10,19 +10,15 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w8YayPXL_eFNigWU_bl3Jw_0BmI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810086/e6988e.jpg" group-title="LIVE EVENT",15.00 WIB PERSITA Tangerang vs PERSIJA Jakarta - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jwLaad4_hpayN307mvktJGRZsKs=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2810125/94e2d2.jpg" group-title="LIVE EVENT",18.30 WIB PSM Makassar vs PERSIB Bandung - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1200px-BRI_Liga_1.svg.png" group-title="LIVE EVENT",15.00 WIB PERSEBAYA Surabaya VS RANS Nusantara FC - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3_T8CJGCxuJAE32bZBUjtQLWa5o=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-73e703.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs PERSIKABO 1973 - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1690040488~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=bc51855575bf997c7ffe61050c4b5e2174f05f3d4961d1e72f7a28cd391b7529/vp9/13610_stream.mpd
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1200px-BRI_Liga_1.svg.png" group-title="LIVE EVENT",18.30 WIB Madura United FC vs PERSIS Solo - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
+https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
 
 ########################## NATIONAL TV ##########################
