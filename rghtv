@@ -1233,6 +1233,11 @@ https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=kaplussport2
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="SPORT HD",LFCTV
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium826/index.m3u8
+
 #EXTINF:-1 group-title="SPORT HD" tvg-id="match.ru" tvg-logo="https://3.bp.blogspot.com/-Ywd23nsIxeU/Wwq8P5mSblI/AAAAAAAATMI/UH-GSli4hIAu_cIvDbiBH2fhdz6Q7mGVACLcBGAs/s1600/match_ru_tv.png",MATCH!
 #EXTVLCOPT:http-referrer=https://besthdplayer.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1262,17 +1267,17 @@ http://webudit.cdnhks.lol/lb/premium399/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=byPFmwd4yw8HDyR1xiKT&custom_7=60ecb878ebef9d002c4d0a11&is_lat=099/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",MNC SPORT HD 1
+#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",SPORTSTARS HD 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://103.152.118.53:80/streams/visyen/dash/MNCSPORT HD-HD/master.mpd
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",MNC SPORT HD 2
+#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",SPORTSTARS HD 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://103.152.118.53:80/streams/visyen/dash/MNCSPORT HD2-HD/master.mpd
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",MNC SPORT HD 3
+#EXTINF:-1 group-title="SPORT HD" tvg-id="mncSPORT HD3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSPORT HD_%282020%29.png",SPORTSTARS HD 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://103.152.118.53:80/streams/visyen/dash/MNCSPORT HD3-HD/master.mpd
