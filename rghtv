@@ -29,8 +29,7 @@ https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RFynlfccgSVBfpEoeLIX-aebTuw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2822133/18f3f0.jpg" group-title="LIVE EVENT",19.00 PERSIK Kediri vs PERSIB Bandung - BRI LIGA 1 (Back Up)
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 ########################## NATIONAL TV ##########################
 
