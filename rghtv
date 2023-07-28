@@ -11,17 +11,25 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q8vl_bgknLtIDB-e08kxUUOmyjg=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2816938/4b1b02.jpg" group-title="LIVE EVENT",14.30 WIB PSIS Semarang vs Borneo FC Samarinda - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q8vl_bgknLtIDB-e08kxUUOmyjg=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2816938/4b1b02.jpg" group-title="LIVE EVENT",14.30 WIB PSIS Semarang vs Borneo FC Samarinda - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QTAm5iTeUHH8TVCGwC-Gnrggnk0=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-0c2634.jpg" group-title="LIVE EVENT",15.00 WIB PERSIKABO 1973 vs PERSITA Tangerang - BRI LIGA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RFynlfccgSVBfpEoeLIX-aebTuw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2822133/18f3f0.jpg" group-title="LIVE EVENT",19.00 PERSIK Kediri vs PERSIB Bandung - BRI LIGA 1
-https://etslive-2-vidio-com.akamaized.net/exp=1689957407~acl=/vp9/13610_stream.mpd!/vp9/13610/*!/vp9/*/13610_stream.mpd!/vp9/*/13610/*~hmac=1e4883a176fcfc7800eecdc841741949b1ebde960f175306b4bcc9ea7cfcec98/vp9/13610_stream.mpd
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RFynlfccgSVBfpEoeLIX-aebTuw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2822133/18f3f0.jpg" group-title="LIVE EVENT",19.00 PERSIK Kediri vs PERSIB Bandung - BRI LIGA 1 (Back Up)
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 ########################## NATIONAL TV ##########################
