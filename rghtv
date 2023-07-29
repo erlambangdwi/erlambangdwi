@@ -11,7 +11,7 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qlCh1jxLXjzn5C7R3UbAMSt9XI0=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824656/b37392.jpg" group-title="LIVE EVENT",14.30 Bali United FC	vs Dewa United FC - BRI Liga 1
-http://103.166.27.2:800/play/a016
+https://hs3.04lv.com/live/L18528810.m3u8?txSecret=e0b69effbd88d731b38151a828f2a618&txTime=64C61BC8&_s=stream&m=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
