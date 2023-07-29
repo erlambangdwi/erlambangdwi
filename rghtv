@@ -134,7 +134,7 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
-http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
+http://103.166.27.2:800/play/a016
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
