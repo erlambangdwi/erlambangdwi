@@ -10,43 +10,7 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QpaF9fNoTqk6IgtFSOYxBA4LULc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826778/8d1964.jpg" group-title="LIVE EVENT",14.30 PERSIS Solo vs AREMA FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QpaF9fNoTqk6IgtFSOYxBA4LULc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826778/8d1964.jpg" group-title="LIVE EVENT",14.30 PERSIS Solo vs AREMA FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ze1xTYeKGctb2hwO0CEWc4a_fZc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824658/d0a14a.jpg" group-title="LIVE EVENT",15.00 RANS Nusantara FC vs PSS Sleman - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1690717868~acl=/hls-p/ingest_13610_*/*~hmac=77eab004379e1aa320f5d450846a8559bb9cc31a99f9e3de29a2d06fe0143164/hls-p/ingest_13610_240p/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ze1xTYeKGctb2hwO0CEWc4a_fZc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824658/d0a14a.jpg" group-title="LIVE EVENT",15.00 RANS Nusantara FC vs PSS Sleman - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4TwatUkgFHpIEJxuX2hgu9Q30Yw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826779/deefd1.jpg" group-title="LIVE EVENT",19.00 PERSIJA Jakarta vs PERSEBAYA Surabaya - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4TwatUkgFHpIEJxuX2hgu9Q30Yw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826779/deefd1.jpg" group-title="LIVE EVENT",19.00 PERSIJA Jakarta vs PERSEBAYA Surabaya - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_3bo4rbRM9QRvi0_MhTLEuLfQcI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826776/a4b25d.jpg" group-title="LIVE EVENT",18.30 PS Barito Putera vs Madura United FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1690731791~acl=/hls-p/ingest_13797_*/*~hmac=138be9011b9bc3ad6cc448f55de787d2dcd1c40cd5aaa2299e6f6a02f3799323/hls-p/ingest_13797_240p/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_3bo4rbRM9QRvi0_MhTLEuLfQcI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826776/a4b25d.jpg" group-title="LIVE EVENT",18.30 PS Barito Putera vs Madura United FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 ########################## NATIONAL TV ##########################
