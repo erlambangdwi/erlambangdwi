@@ -156,11 +156,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
 http://103.166.27.2:800/play/a016
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR LIVE
-#http://watchlive.my.id/indosiar/197
-http://watchlive.my.id/lokal/indo.m3u8
+https://habotv.github.io/live/indosia.m3u8?type=rakettv
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
