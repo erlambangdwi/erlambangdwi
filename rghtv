@@ -22,7 +22,7 @@ https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a96
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ze1xTYeKGctb2hwO0CEWc4a_fZc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824658/d0a14a.jpg" group-title="LIVE EVENT",15.00 RANS Nusantara FC vs PSS Sleman - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1679139967~acl=/hls-p/ingest_9310_*/*~hmac=749f1ad5dd0cf7589a6de941e82e8b89d07f7ce35d6dd2bdfe793b7acc4854c6/hls-p/ingest_9310_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1690717868~acl=/hls-p/ingest_13610_*/*~hmac=77eab004379e1aa320f5d450846a8559bb9cc31a99f9e3de29a2d06fe0143164/hls-p/ingest_13610_240p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
