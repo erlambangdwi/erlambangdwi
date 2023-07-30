@@ -41,7 +41,7 @@ https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_3bo4rbRM9QRvi0_MhTLEuLfQcI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826776/a4b25d.jpg" group-title="LIVE EVENT",18.30 PS Barito Putera vs Madura United FC - BRI Liga 1
-http://103.166.27.2:800/play/a016
+https://etslive-2-vidio-com.akamaized.net/exp=1690731791~acl=/hls-p/ingest_13797_*/*~hmac=138be9011b9bc3ad6cc448f55de787d2dcd1c40cd5aaa2299e6f6a02f3799323/hls-p/ingest_13797_240p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
