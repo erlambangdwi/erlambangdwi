@@ -10,27 +10,46 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qlCh1jxLXjzn5C7R3UbAMSt9XI0=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824656/b37392.jpg" group-title="LIVE EVENT",14.30 Bali United FC	vs Dewa United FC - BRI Liga 1
-https://hs3.04lv.com/live/L18528810.m3u8?txSecret=e0b69effbd88d731b38151a828f2a618&txTime=64C61BC8&_s=stream&m=1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QpaF9fNoTqk6IgtFSOYxBA4LULc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826778/8d1964.jpg" group-title="LIVE EVENT",14.30 PERSIS Solo vs AREMA FC - BRI Liga 1
+#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qlCh1jxLXjzn5C7R3UbAMSt9XI0=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824656/b37392.jpg" group-title="LIVE EVENT",14.30 Bali United FC	vs Dewa United FC - BRI Liga 1 (Back Up)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QpaF9fNoTqk6IgtFSOYxBA4LULc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826778/8d1964.jpg" group-title="LIVE EVENT",14.30 PERSIS Solo vs AREMA FC - BRI Liga 1 (Back Up)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pP2KmOxIdPASwkRayb3azBBurVw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824194/8159d6.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs	PSM Makassar - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ze1xTYeKGctb2hwO0CEWc4a_fZc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824658/d0a14a.jpg" group-title="LIVE EVENT",15.00 RANS Nusantara FC vs PSS Sleman - BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1679139967~acl=/hls-p/ingest_9310_*/*~hmac=749f1ad5dd0cf7589a6de941e82e8b89d07f7ce35d6dd2bdfe793b7acc4854c6/hls-p/ingest_9310_1080p/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ze1xTYeKGctb2hwO0CEWc4a_fZc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824658/d0a14a.jpg" group-title="LIVE EVENT",15.00 RANS Nusantara FC vs PSS Sleman - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pP2KmOxIdPASwkRayb3azBBurVw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824194/8159d6.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs	PSM Makassar - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4TwatUkgFHpIEJxuX2hgu9Q30Yw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826779/deefd1.jpg" group-title="LIVE EVENT",19.00 PERSIJA Jakarta vs PERSEBAYA Surabaya - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pP2KmOxIdPASwkRayb3azBBurVw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2824194/8159d6.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC vs	PSM Makassar - BRI Liga 1 (Back Up)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4TwatUkgFHpIEJxuX2hgu9Q30Yw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826779/deefd1.jpg" group-title="LIVE EVENT",19.00 PERSIJA Jakarta vs PERSEBAYA Surabaya - BRI Liga 1 (Back Up)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_3bo4rbRM9QRvi0_MhTLEuLfQcI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826776/a4b25d.jpg" group-title="LIVE EVENT",18.30 PS Barito Putera vs Madura United FC - BRI Liga 1
+http://103.166.27.2:800/play/a016
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_3bo4rbRM9QRvi0_MhTLEuLfQcI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2826776/a4b25d.jpg" group-title="LIVE EVENT",18.30 PS Barito Putera vs Madura United FC - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 ########################## NATIONAL TV ##########################
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
