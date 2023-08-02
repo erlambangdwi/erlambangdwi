@@ -11,9 +11,22 @@
 ########################## LIVE EVENT ##########################
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zMNhxB6Zh8TVXnuI369bc6yhlMM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/14065/garuda-select-9b9a5e.jpg" group-title="LIVE EVENT",19.00 Garuda United U-17 vs FC Barcelona Juvenil A
-https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.v9mY2Ksi_8yRdLzDWWTp-Rq0Zpmlre8NsslQjeRxPwfKkLJ45ivaItqoserfedcI_XT7ju2N_l4XHiPqbr2F2Q
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3x9YV8HbtZnGtqXg3ezWjvBaPsU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2834052/196ad0.jpg" group-title="LIVE EVENT",18.30 PERSIB Bandung vs Bali United FC - BRI Liga 1
+http://103.166.27.2:800/play/a016
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3x9YV8HbtZnGtqXg3ezWjvBaPsU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2834052/196ad0.jpg" group-title="LIVE EVENT",18.30 PERSIB Bandung vs Bali United FC - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4jX3xR-aH9F3MiOBuc7JgLZor5E=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-716bf1.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC VS Persita Tanggerang FC BRI Liga 1
+http://watchlive.my.id/lokal/indo.m3u8
+#http://watchlive.my.id/indosiar/197
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4jX3xR-aH9F3MiOBuc7JgLZor5E=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-716bf1.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC VS Persita Tanggerang FC BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
 ########################## NATIONAL TV ##########################
