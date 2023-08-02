@@ -3169,6 +3169,8 @@ https://hls26-eu.zcdn.stream/8c93d5ba99c27880c7860dff8236096b/2023-07-12/video.m
 
 #############VOD2##############
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRspl0iyVr8XlkuPxQ_kdt2cQEfoPpeuiBEQ&usqp=CAU" group-title="VOD2",Bismillah Kunikahi Suamimu
+https://pkc7stg73wuf.lions-vidcdn.com/hls2/01/00107/xyn1ic1dxwxm_n/master.m3u8?t=jvUZimzkbCdivrTO8MAx6YYpPGoLAg3wQMuF-BxCPUU&s=1691003834&e=129600&f=540147&srv=AuqqiKdO99Ar&i=0.0&sp=1500&p1=AuqqiKdO99Ar&p2=AuqqiKdO99Ar
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiM0LrNin0BF8cBXqXO_ZiyPzm0A10EoxIg&usqp=CAU" group-title="VOD2",The Covenant (2023)
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/04036/nywsqe6hfpst_,n,h,.urlset/master.m3u8?t=8rueCVJ08R1cJlCyDBaZem85CouGXn4Exu9TEfgecsY&s=1688652820&e=43200&f=20181684&srv=24&asn=140475&sp=2000
