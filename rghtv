@@ -3169,49 +3169,68 @@ https://hls26-eu.zcdn.stream/8c93d5ba99c27880c7860dff8236096b/2023-07-12/video.m
 
 #############VOD2##############
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRspl0iyVr8XlkuPxQ_kdt2cQEfoPpeuiBEQ&usqp=CAU" group-title="VOD2",Bismillah Kunikahi Suamimu
-https://pkc7stg73wuf.lions-vidcdn.com/hls2/01/00107/xyn1ic1dxwxm_n/master.m3u8?t=jvUZimzkbCdivrTO8MAx6YYpPGoLAg3wQMuF-BxCPUU&s=1691003834&e=129600&f=540147&srv=AuqqiKdO99Ar&i=0.0&sp=1500&p1=AuqqiKdO99Ar&p2=AuqqiKdO99Ar
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiM0LrNin0BF8cBXqXO_ZiyPzm0A10EoxIg&usqp=CAU" group-title="VOD2",The Covenant (2023)
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/04036/nywsqe6hfpst_,n,h,.urlset/master.m3u8?t=8rueCVJ08R1cJlCyDBaZem85CouGXn4Exu9TEfgecsY&s=1688652820&e=43200&f=20181684&srv=24&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://pjg3itk8bndw.lions-vidcdn.com/hls2/01/00047/gzsumljbzv3u_n/master.m3u8?t=Nc0xwkaxgOkck8F_JJBG8Jh2sIQaK1j73L3vwDopBho&s=1691013095&e=129600&f=239447&srv=XMIefdUEkY7X&i=0.0&sp=1500&p1=XMIefdUEkY7X&p2=XMIefdUEkY7X
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cc392c_6a363e8711b4464c94e433d6cc3f01bd~mv2.jpg/v1/fill/w_640,h_960,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cc392c_6a363e8711b4464c94e433d6cc3f01bd~mv2.jpg" group-title="VOD2",The Fearway (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://ss110.litvp.com/stream/1/FE/D69R3L1iNduHmC8iSPv5bpXKkfuLD6w5QLu/master.m3u8
+https://q0useqhplvvu.lions-vidcdn.com/hls2/01/00060/ixtmk4q9c0ju_n/master.m3u8?t=U6Ew-jtVSLxezUNtA2-QAv4wMkclYvQ-SCqvDnyWpS0&s=1691013215&e=129600&f=305041&srv=yq3cj4q7sq32&i=0.0&sp=1500&p1=yq3cj4q7sq32&p2=yq3cj4q7sq32
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWjVtSuujiyNPNc-Uap3w1mImRs7dZ-GYKSA&usqp=CAU" group-title="VOD2",Nothing Like Paris (2023)
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/04019/inr4mzspombo_,n,h,.urlset/master.m3u8?t=OKgB1lfIk0SHFlPnpvdTkRZP4LreDCfPyUQsdEYhkio&s=1688653599&e=43200&f=20096765&srv=17&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://mgckzeljjcg9qq0y.lions-vidcdn.com/hls2/01/00123/6xmq7w8ngan5_n/master.m3u8?t=nAtLVZT9AY93tORkcx4USYLSpfKeptEbkiYBuW0fOqk&s=1691009510&e=129600&f=615209&srv=vCRGO5OhkfMZ&i=0.0&sp=1500&p1=vCRGO5OhkfMZ&p2=vCRGO5OhkfMZ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsmSYoE7sJN2G9PmK2IvTrhX0zU1_kWH-dg&usqp=CAU" group-title="VOD2",Raaghu (2023)
-https://be4242.rcr52.ams03.cdn112.com/hls2/02/03979/3didxfb2qzqg_,n,h,.urlset/master.m3u8?t=SZVuCVCsdTXMt91_kR0PhJl3L1SjHd7PwWQ-QhxpQjc&s=1688653940&e=43200&f=19899222&srv=26&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://xav1l1onscz9vfsq.lions-vidcdn.com/hls2/01/00033/64usgvyejjsu_n/master.m3u8?t=yR7Lu98avi69U5Una0GIrPpdyYMPgHkLICZ-H67q6G4&s=1691012795&e=129600&f=170502&srv=ref3rauxqjpf&i=0.0&sp=1500&p1=ref3rauxqjpf&p2=ref3rauxqjpf
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRbsXMGjwmRCkWJdIISWLpgdX4dWsKgP--A&usqp=CAU" group-title="VOD2",Ambush (2023)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/03971/7h0tjtfiuvru_,n,h,.urlset/master.m3u8?t=XnrKVxdswkBFZU4vT6OMQsV61gMyUzNm-b72HVuaISQ&s=1688654126&e=43200&f=19859479&srv=23&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://bestx.stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://hls14-eu.zcdn.stream/59ea5371353f1528d2dab8549bab9007/2023-05-17/video.m3u8?auth=b2a1f2bfb355c905f940293a2b85c95a&expires=1691038954&type=edge&node=ZPFo2yBJVvu4VN5_fjzEW8-5dh51DB8rDcShOG9B3_A32MFlpZbP5mLJ5cX4ulTy7-6h14ttMeki0xBOYAhk4WYBXlyFDLaqpxp7yFT6yxc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uq9xbFQe3GnYOx2T9qFGduSY4lzfOqY6Qw&usqp=CAU" group-title="VOD2",The Mother (2023)
-https://be2719.rcr22.ams01.cdn112.com/hls2/02/03792/2pdzc23cfhoq_,n,x,.urlset/master.m3u8?t=hJWDGED4TtfFVl6F9IbF3PSe5yKRgk3_AtD8SrkUdIk&s=1688654275&e=43200&f=19823850&srv=29&asn=140475&sp=2500
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://xav1l1onscz9vfsq.lions-vidcdn.com/hls2/01/00006/jtwfwxojdsvz_n/master.m3u8?t=tKc1BuHdpYpRWsFbSdk1a2ZJmJSbtzLpVBJD81zM2bI&s=1691013630&e=129600&f=33545&srv=40kmxc0ewyq2&i=0.0&sp=1500&p1=40kmxc0ewyq2&p2=40kmxc0ewyq2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-b6KHO9FSz8rM3yt-9HJnqTgbIul-GfRsdw&usqp=CAU" group-title="VOD2",Black Lotus (2023)
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/03899/9ua99l1c7bcd_,n,h,.urlset/master.m3u8?t=g79y0PLSp2kMEecCGZsDxUjJDZTW_4UUJUQFJjGimRI&s=1688654464&e=43200&f=19496467&srv=21&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://kn3jgcm02joy.lions-vidcdn.com/v/01/00019/amlriigvf51y_n/n.mp4?t=OcFn0yHXnIHpy9QUnwquNv74CyEg60pfv_XHhR9GEk0&s=1691011594&e=129600&f=97757&sp=300&i=0.0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcXcuS_TZeH2zYgX64GiGML3jGR-7gl6LJOg&usqp=CAU" group-title="VOD2",Tin & Tina (2023)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/03891/81al2j2vd1aa_,n,x,.urlset/master.m3u8?t=XSVLawrtd1Gb_fZ-2atBg5VOHfGrDIs8GgstiB3ylRg&s=1688654588&e=43200&f=19455181&srv=21&asn=140475&sp=2500
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://n2g7a0cf0hfi2wkv.lions-vidcdn.com/hls2/01/00016/2oi6nxxi8oyb_n/master.m3u8?t=JaUwhCczzDS9-LacCfY_8GCg1RDwxJXByNPClAiLY10&s=1691014693&e=129600&f=84406&srv=yq3cj4q7sq32&i=0.0&sp=1500&p1=yq3cj4q7sq32&p2=yq3cj4q7sq32
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBYYmSU-4gAuGM77ZqvdQ1BuLO3A6mPU3wA&usqp=CAU" group-title="VOD2",To Catch a Killer (2023)
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/03828/968t0p5lhpn9_,n,h,.urlset/master.m3u8?t=0TZYnfnT-mnyXGKynHVck1oIp8niJyg7eYmBBIQtR4w&s=1688654706&e=43200&f=19144308&srv=29&asn=140475&sp=2000
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/vlxu4okztk761fomxzrkk5649nqiddtjmxtzsi
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56ZFEISSvYEsNN3zAuXuzYOSPSkH6Oz7SQw&usqp=CAU" group-title="VOD2",Creed III (2023)
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/03829/v7qeqylksqlo_,n,h,.urlset/master.m3u8?t=7qMjaokoPyOKlG-O0fs03sFdUyq0511zSQeDaQvg1EY&s=1688654855&e=43200&f=19146400&srv=22&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://b5tqt1w6bt5j1tkb.lions-vidcdn.com/hls2/01/00005/o529ugqaquo1_n/master.m3u8?t=R_ZRStjTHmORNiqG5YyFN7aT9thacARTSz_gPo3kl2g&s=1691009792&e=129600&f=29585&srv=40kmxc0ewyq2&i=0.0&sp=1500&p1=40kmxc0ewyq2&p2=40kmxc0ewyq2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdS_tv-3QMXv1FXZV_BYiBWEb7z6yPnLpx5Q&usqp=CAU" group-title="VOD2",Ant-Man and the Wasp: Quantumania (2023)
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/03797/zrqw7vpcfva8_,n,h,.urlset/master.m3u8?t=TeIilFZUPPGJIBwbBlTA5qW1iWmEv8LWW8TuAgiByVI&s=1688654995&e=43200&f=18986732&srv=21&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://bestx.stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://hls24-eu.zcdn.stream/1e4c234dae93b320dd0ef6ed23c7cf77/2023-06-13/video.m3u8?auth=2721a97bb7db9252ef0beca843b526c7&expires=1691039392&type=edge&node=rJpKIkfz96diJM9SyfymRcd9C0DgPoypTxvXgmSqSF4Eq-VMs-3JdS2WX2wII9nqMR3I-pujhDzpl2RstlFji1a6lThYx6vLtVKRaVYwUmY
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvsTKjodR8jjR0RkDebyxCLpXtg1PAMCwkw&usqp=CAU" group-title="VOD2",The Best Man (2023)
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/03792/936f50iuqofa_,n,h,.urlset/master.m3u8?t=AfVTwZB3ohPqP9xM-Iv90mmVgLl7uwnpV9fMf3MkrdI&s=1688655118&e=43200&f=18964262&srv=21&asn=140475&sp=2000
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://a7zls9iui1ucfutg.lions-vidcdn.com/hls2/01/00019/4m1ns8pv3xln_n/master.m3u8?t=BnucokwiunHvnvcdeSKB4ZntaEFfrUDlK6Sk3DtFx6c&s=1691012921&e=129600&f=99903&srv=0518gv6oguzn&i=0.0&sp=1500&p1=0518gv6oguzn&p2=0518gv6oguzn
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKlHLwj89fjne8wfAJuvKxyOIZV5xa5IHIA&usqp=CAU" group-title="VOD2",The Unborn Soul (Vong Nhi) (2023)
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/03776/ghxommz9kco6_,n,x,.urlset/master.m3u8?t=VV2FHenzcQMaoTsGAXbQAEzpLFkX-HltDL8tWASFXFQ&s=1688655388&e=43200&f=18882551&srv=30&asn=140475&sp=2500
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://a7zls9iui1ucfutg.lions-vidcdn.com/hls2/01/00006/9uqunwetylgo_n/master.m3u8?t=hQVDfGWdL5-vMCc3whoG3IyZtVSCY2si__g3Nr7Iqu4&s=1691014573&e=129600&f=32602&srv=kn3jgcm02joy&i=0.0&sp=1500&p1=kn3jgcm02joy&p2=kn3jgcm02joy
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/id-guardiansofthegalaxy-vol3-payoffposter_6ba5c28b.jpeg?region=0%2C0%2C600%2C900" group-title="VOD2",Guardians of the Galaxy Vol. 3 (2023)
 #EXTVLCOPT:http-referrer=https://layarkacaxxi.icu/
@@ -3219,40 +3238,53 @@ https://be2719.rcr22.ams01.cdn112.com/hls2/01/03776/ghxommz9kco6_,n,x,.urlset/ma
 https://ss207.maybtuon.com/stream/7/AF/TYtPzlJTTBpC1niNGbXHrUBuvc6hCFHIs7Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt9L7IfHFU8Ae8_Q-8hwh9f3MKvyBXM_7uQ&usqp=CAU" group-title="VOD2",Anak Titipan Setan (2023)
-https://zx3paandj894cwqf.lions-vidcdn.com/hls2/01/00063/hgyvpy9i7683_n/master.m3u8?t=itCBecCzBfQ_UXiUfu9fOUvR06p4fINX_3oBw83YIbs&s=1688745379&e=129600&f=315444&srv=kn3jgcm02joy&i=0.0&sp=1500&p1=kn3jgcm02joy&p2=kn3jgcm02joy
+#EXTVLCOPT:http-referrer=https://bestx.stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://hls26-eu.zcdn.stream/4ffbca07af699f2b2db2dec5a57b6a88/2023-06-22/video.m3u8?auth=4d928accf4a2d8dfc575e86c2d23aad8&expires=1691039184&type=edge&node=evVZm2bC28Ru0Ia35-HgpsT3X_Idq-xBgqb5baibb9kIZJ6JojCeGPiByEtm2oM2774qxjNj_Ui5vyZ0nt0uW4s4_3WYr2V6628bTsT4Kpw
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpwOPNYtYwk36ntO1Q57erH49uH2y4aJDvQ&usqp=CAU" group-title="VOD2",The Flash (2023)
-https://ebzbmlbdxu3ldwdw.lions-vidcdn.com/hls2/01/00056/c2djb5ip5b7k_n/master.m3u8?t=aH1ejeght6WCdJRq3TapNcIoCWNUOmFjqD5AFAKdcE0&s=1688737491&e=129600&f=283189&srv=kn3jgcm02joy&i=0.0&sp=1500&p1=kn3jgcm02joy&p2=kn3jgcm02joy
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://bfgdd7o7y3jy.lions-vidcdn.com/hls2/01/00056/c2djb5ip5b7k_n/master.m3u8?t=GfzzdoF4LmXtohEkHsiT3V8I6fYZwJoxMcqzRiaLzYQ&s=1691013376&e=129600&f=283189&srv=kn3jgcm02joy&i=0.0&sp=1500&p1=kn3jgcm02joy&p2=kn3jgcm02joy
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfTXsAwcEWdPjlWm85mFmXxjSoj7cwF6Z1Q&usqp=CAU" group-title="VOD2",Para Betina Pengikut Iblis (2023)
-https://x8ajl8p3frgzj3e7.lions-vidcdn.com/hls2/01/00050/7uzf7fv3e8pq_n/master.m3u8?t=-01RQD7uBDzcB63Z1zJw0-sT45nWDyeV7kihQJu6VaE&s=1688734830&e=129600&f=253920&srv=A2fzJKlilCu8&i=0.0&sp=1500&p1=A2fzJKlilCu8&p2=A2fzJKlilCu8
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://cqextxakt1bd.lions-vidcdn.com/hls2/01/00050/7uzf7fv3e8pq_n/master.m3u8?t=D9CMwS04oe-8fNpR0dEdc6Pc49CgFT7tWqYCkuiPW98&s=1691004192&e=129600&f=253920&srv=A2fzJKlilCu8&i=0.0&sp=1500&p1=A2fzJKlilCu8&p2=A2fzJKlilCu8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbnwVAXrgaKimJgasAjKnfjVbDUJ7TIegIg&usqp=CAU" group-title="VOD2",Tinnitus (2023)
-https://mgckzeljjcg9qq0y.lions-vidcdn.com/hls2/01/00006/frs5plgn874b_n/master.m3u8?t=AvRI7m0ED3M8v_cEprm0MldY-Suc8cYUYDdyZQUoV18&s=1688748317&e=129600&f=34792&srv=0518gv6oguzn&i=0.0&sp=1500&p1=0518gv6oguzn&p2=0518gv6oguzn
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://dyhg9yfmja3f.lions-vidcdn.com/hls2/01/00006/frs5plgn874b_n/master.m3u8?t=IwTu-QQQ-RIvFJVfUugyvOuFDC3KVcOvlR9qAbHAfZY&s=1691014807&e=129600&f=34792&srv=0518gv6oguzn&i=0.0&sp=1500&p1=0518gv6oguzn&p2=0518gv6oguzn
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ee/Assassin_2023_poster.png" group-title="VOD2",Assassin (2023)
-https://gy51qnnk6ihg1lrf.lions-vidcdn.com/hls2/01/00006/wzbdd1qmxqz2_n/master.m3u8?t=utGFCUtAs08lZPHR0UDuNOYeyMGGFbLWfwRWc1a1oDw&s=1688748493&e=129600&f=37915&srv=ref3rauxqjpf&i=0.0&sp=1500&p1=ref3rauxqjpf&p2=ref3rauxqjpf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMtfG_mzUSIHFTmEAt3Z2tcPGKkdkSbNo-g&usqp=CAU" group-title="VOD2",The Flood (2023)
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/fb9t50c1fm1yolyz6lrgk8244slvfmqn1d8p
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJlNH0uagx5T3UkVn-3deWylXGGKq-5HUudg&usqp=CAU" group-title="VOD2",Innocent Vengeance (2023)
-https://bxo0comv1rh33h2p.lions-vidcdn.com/hls2/01/00005/v0ep5le9tbwh_n/master.m3u8?t=oi2A5npaJDfMgSY-HBOWF4O1Ifm7QA_r-Amq1r18tLQ&s=1688737144&e=129600&f=29108&srv=0518gv6oguzn&i=0.0&sp=1500&p1=0518gv6oguzn&p2=0518gv6oguzn
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://gy3yju69k6w5.lions-vidcdn.com/hls2/01/00005/v0ep5le9tbwh_n/master.m3u8?t=DDNcjxmf5wzRBVOCSM0bgwIxzdmuKlqcAfDKVG7rvXc&s=1690999433&e=129600&f=29108&srv=0518gv6oguzn&i=0.0&sp=1500&p1=0518gv6oguzn&p2=0518gv6oguzn
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yaxz37CrkFzILO9K4_ZnlqE0EQK3n7NZQw&usqp=CAU" group-title="VOD2",The Ghost Station (2023)
-https://hydlg0xrs86faqjs.lions-vidcdn.com/hls2/01/00087/j8pqroyga0i2_o/master.m3u8?t=W3dGtMUGEUCdj-cnVN6BraRNmXFePt-yRIh7j0oNsww&s=1688745723&e=129600&f=442395&srv=J643R6a3JOpn&i=0.0&sp=1500&p1=J643R6a3JOpn&p2=J643R6a3JOpn
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://wss3nad7ls5u.lions-vidcdn.com/hls2/01/00144/vilu8a0uk1cj_n/master.m3u8?t=2R93q5TISF129Y2IsV84pOyE28iwPeZ3bJxAJjKSID8&s=1691013504&e=129600&f=729461&srv=a1W8S79DkDkQ&i=0.0&sp=1500&p1=a1W8S79DkDkQ&p2=a1W8S79DkDkQ
 
 #EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20230630/54/d1/v_172963562_m_601_en_m1_260_360.webp" group-title="VOD2",Bangkok Storm (2023)
-https://fjf8dprsowmlwkfz.lions-vidcdn.com/hls2/01/00077/v1xjoia7cadm_n/master.m3u8?t=DX-VzZn-TYmBK5wxj65-lKtUn81FL-zoGUbHF7MeOe4&s=1688741055&e=129600&f=386656&srv=dp73SXXpKLZa&i=0.0&sp=1500&p1=dp73SXXpKLZa&p2=dp73SXXpKLZa
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://mgckzeljjcg9qq0y.lions-vidcdn.com/hls2/01/00077/v1xjoia7cadm_n/master.m3u8?t=xZMOdd-XQcFod7YtzyP8WRrHVyqYItTCMYxV1I5H338&s=1691001019&e=129600&f=386656&srv=dp73SXXpKLZa&i=0.0&sp=1500&p1=dp73SXXpKLZa&p2=dp73SXXpKLZa
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVrWLdKYWBL-oI1B9uybIZX7sLKidu18ZIw&usqp=CAU" group-title="VOD2",The Scream 6 (2023)
-#EXTVLCOPT:http-referrer=https://filemoon.sx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/03622/b7rwe3kx1o8c_h/master.m3u8?t=tuvfEXpYeqM0Pp2eyTUbPRJg2cuOZ2YsZfWn7S264cs&s=1688750056&e=43200&f=18112618&srv=21&asn=140475&sp=2000
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/s9mbyxoao1iandawxl0h73y7476jpkpzo47t6j
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM2YWNhOWItNTIwNy00YmU1LTg3MzUtOGNlNzViMjIxYzFkXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="VOD2",Warhorse One (2023)
-#EXTVLCOPT:http-referrer=https://filelions.to/
+#EXTVLCOPT:http-referrer=https://proxsy.detik.pp.ua/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://ebzbmlbdxu3ldwdw.lions-vidcdn.com/hls2/01/00086/ay0c9dcmlchn_l/master.m3u8?t=1uABXvwjdAPOkdItLmcAvnV_Wa8Dq0LZRm-l5GJEhy0&s=1688750604&e=129600&f=434784&srv=sr9if1L6aLfT&i=0.0&sp=1500&p1=sr9if1L6aLfT&p2=sr9if1L6aLfT
+https://e6g55k6nyoao.lions-vidcdn.com/hls2/01/00090/tfirtw1pzhsd_n/master.m3u8?t=3W4kA7J-2AAP0uGRwCR3R0ux-5F4A-rjSZm89KzBvzo&s=1691015090&e=129600&f=490433&srv=sr9if1L6aLfT&i=0.0&sp=1500&p1=sr9if1L6aLfT&p2=sr9if1L6aLfT
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdlZjI4YTEtNjgzZi00NTA1LWIwZWYtMDc0MzhjOWNlYjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="VOD2",Insidious The Red Door (2023)
-#EXTVLCOPT:http-referrer=https://sblona.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://delivery406.akamai-video-content.com/hls2/01/13444/6yzwgk0sqezr_,l,n,.urlset/master.m3u8?t=Ayf1Npj6ePFp-cKLU4GZqs-x2zJiLzpthbvvQrr79mc&s=1688751225&e=10800&f=67220352&srv=sto194&client=103.153.246.77&asn=140475
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/e4ycdjj219kotobai7gxfrc6xj5ty5ajecso
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRspl0iyVr8XlkuPxQ_kdt2cQEfoPpeuiBEQ&usqp=CAU" group-title="VOD2",Bismillah Kunikahi Suamimu
+https://pkc7stg73wuf.lions-vidcdn.com/hls2/01/00107/xyn1ic1dxwxm_n/master.m3u8?t=jvUZimzkbCdivrTO8MAx6YYpPGoLAg3wQMuF-BxCPUU&s=1691003834&e=129600&f=540147&srv=AuqqiKdO99Ar&i=0.0&sp=1500&p1=AuqqiKdO99Ar&p2=AuqqiKdO99Ar
