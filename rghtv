@@ -36,9 +36,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://etslive-2-vidio-com.akamaized.net/exp=1691078184~acl=/hls-p/ingest_13797_*/*~hmac=7aee25d806709da219c1004bc3727732aefcf6e3d083d031925b9eede9e9ce4c/hls-p/ingest_13797_240p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4jX3xR-aH9F3MiOBuc7JgLZor5E=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-716bf1.jpg" group-title="LIVE EVENT",19.00 Bhayangkara Presisi Indonesia FC VS Persita Tanggerang FC BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 ########################## NATIONAL TV ##########################
