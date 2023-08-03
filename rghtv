@@ -21,10 +21,8 @@ https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ltX_TTqgdTQAfi3GuTpH8HG0VbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838821/142002.jpg" group-title="LIVE EVENT",14.30 PSM Makassar vs PERSIK Kediri - BRI Liga 1 (Back Up)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3x9YV8HbtZnGtqXg3ezWjvBaPsU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2834052/196ad0.jpg" group-title="LIVE EVENT",18.30 PERSIB Bandung vs Bali United FC - BRI Liga 1
-#EXTVLCOPT:http-referrer=https://qwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdnhks.lol/lb/premium1/index.m3u8
+http://103.30.87.238:443/caknur/segopecel/907
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -149,7 +147,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 http://103.166.27.2:800/play/a016
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR LIVE
-https://habotv.github.io/live/indosia.m3u8?type=rakettv
+http://103.30.87.238:443/caknur/segopecel/907
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
