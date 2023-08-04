@@ -28,9 +28,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/02yetzQNt2Z5Qc0o4DhkFVdMHto=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838779/237398.jpg" group-title="LIVE EVENT",15.00 Dewa United FC vs PERSIS Solo - BRI Liga 1 (Back Up)
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2URQEVTF9grf5QMrQo5AejI9CQA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838797/59917a.jpg" group-title="LIVE EVENT",18.30 PSS Sleman vs PERSIJA Jakarta - BRI Liga 1
-http://watchlive.my.id/lokal/indo.m3u8
-#http://watchlive.my.id/indosiar/197
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
+https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
