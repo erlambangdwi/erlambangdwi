@@ -10,42 +10,7 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5pH2InvknfNYTLYMTyJpICDpK5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838794/ee6416.jpg" group-title="LIVE EVENT",14.30 PERSEBAYA Surabaya vs PERSIKABO 1973 - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5pH2InvknfNYTLYMTyJpICDpK5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838794/ee6416.jpg" group-title="LIVE EVENT",14.30 PERSEBAYA Surabaya vs PERSIKABO 1973 - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/02yetzQNt2Z5Qc0o4DhkFVdMHto=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838779/237398.jpg" group-title="LIVE EVENT",15.00 Dewa United FC vs PERSIS Solo - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/02yetzQNt2Z5Qc0o4DhkFVdMHto=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838779/237398.jpg" group-title="LIVE EVENT",15.00 Dewa United FC vs PERSIS Solo - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2URQEVTF9grf5QMrQo5AejI9CQA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838797/59917a.jpg" group-title="LIVE EVENT",18.30 PSS Sleman vs PERSIJA Jakarta - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2URQEVTF9grf5QMrQo5AejI9CQA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2838797/59917a.jpg" group-title="LIVE EVENT",18.30 PSS Sleman vs PERSIJA Jakarta - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NV_GAbokJpApd_no3kl3onV1-QY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-9bcc8a.jpg" group-title="LIVE EVENT",19.00 Borneo FC Samarinda vs RANS Nusantara FC - BRI Liga 1
-http://103.166.27.2:800/play/a016
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NV_GAbokJpApd_no3kl3onV1-QY=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-9bcc8a.jpg" group-title="LIVE EVENT",19.00 Borneo FC Samarinda vs RANS Nusantara FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 ########################## NATIONAL TV ##########################
