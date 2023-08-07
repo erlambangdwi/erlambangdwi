@@ -10,6 +10,35 @@
 
 ########################## LIVE EVENT ##########################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d2Zd5vwL6BYpw5Zrr0HXjwcGNbU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2845376/2eceab.jpg" group-title="LIVE EVENT",15.00 Bhayangkara Presisi Indonesia FC vs PERSEBAYA Surabaya - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
+https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d2Zd5vwL6BYpw5Zrr0HXjwcGNbU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2845376/2eceab.jpg" group-title="LIVE EVENT",15.00 Bhayangkara Presisi Indonesia FC vs PERSEBAYA Surabaya - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vXwl5FGM_KjrvlXBiqLCMrL6J-w=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-2cdc2f.jpg" group-title="LIVE EVENT",15.00 PERSIKABO 1973 vs PSS Sleman - BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vXwl5FGM_KjrvlXBiqLCMrL6J-w=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13797/bri-liga-1-cover-2cdc2f.jpg" group-title="LIVE EVENT",15.00 PERSIKABO 1973 vs PSS Sleman - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ow4JHQUK03rFYmmbhXkMLYo4b3E=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2850144/79ccd8.jpg" group-title="LIVE EVENT",18.30 PERSIS Solo vs PERSIB Bandung - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch6
+https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ow4JHQUK03rFYmmbhXkMLYo4b3E=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2850144/79ccd8.jpg" group-title="LIVE EVENT",18.30 PERSIS Solo vs PERSIB Bandung - BRI Liga 1 (Back Up)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
 
