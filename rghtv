@@ -10,42 +10,7 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3buI0Temraa7YWcV2bgagWuVhjc=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-c3f841.jpg" group-title="LIVE EVENT",15.00 PS Barito Putera vs Dewa United FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691580623~acl=/hls-p/ingest_13561_*/*~hmac=9e8d75d1e99d17e4b63d41304fd47135e72bd21a82e4d4e759558a652659f82f/hls-p/ingest_13561_240p/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3buI0Temraa7YWcV2bgagWuVhjc=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-c3f841.jpg" group-title="LIVE EVENT",15.00 PS Barito Putera vs Dewa United FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DAh-T57cvE2chpjpqBI-svegXlA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2852796/056b79.jpg" group-title="LIVE EVENT",15.00 PSIS Semarang vs AREMA FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DAh-T57cvE2chpjpqBI-svegXlA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2852796/056b79.jpg" group-title="LIVE EVENT",15.00 PSIS Semarang vs AREMA FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXt_J2ymlCvB1ZlraLOSBeztwVpC2p6_AZ_Q&usqp=CAU" group-title="LIVE EVENT",18.30 Jakarta vs Borneo FC Samarinda - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXt_J2ymlCvB1ZlraLOSBeztwVpC2p6_AZ_Q&usqp=CAU" group-title="LIVE EVENT",18.30 Jakarta vs Borneo FC Samarinda - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9kOs1ABqCGYQp8fmIMlmMcSnF4A=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-d35634.jpg" group-title="LIVE EVENT",19.00 RANS Nusantara FC vs Madura United FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691595034~acl=/hls-p/ingest_13610_*/*~hmac=dbc24e747153d9e0eef0bf5e378385fba24307711837e1b2f5cf6aafa6fbd770/hls-p/ingest_13610_1080p/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9kOs1ABqCGYQp8fmIMlmMcSnF4A=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-d35634.jpg" group-title="LIVE EVENT",19.00 RANS Nusantara FC vs Madura United FC - BRI Liga 1 (Back Up)
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 
