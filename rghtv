@@ -11,9 +11,7 @@
 ########################## LIVE EVENT ##########################
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3buI0Temraa7YWcV2bgagWuVhjc=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13561/bri-liga-1-cover-c3f841.jpg" group-title="LIVE EVENT",15.00 PS Barito Putera vs Dewa United FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1691580623~acl=/hls-p/ingest_13561_*/*~hmac=9e8d75d1e99d17e4b63d41304fd47135e72bd21a82e4d4e759558a652659f82f/hls-p/ingest_13561_240p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -21,7 +19,9 @@ https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd87
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DAh-T57cvE2chpjpqBI-svegXlA=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2852796/056b79.jpg" group-title="LIVE EVENT",15.00 PSIS Semarang vs AREMA FC - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
+https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
