@@ -40,7 +40,7 @@ https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9kOs1ABqCGYQp8fmIMlmMcSnF4A=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-d35634.jpg" group-title="LIVE EVENT",19.00 RANS Nusantara FC vs Madura United FC - BRI Liga 1
-http://103.166.27.2:800/play/a016
+https://etslive-2-vidio-com.akamaized.net/exp=1691595034~acl=/hls-p/ingest_13610_*/*~hmac=dbc24e747153d9e0eef0bf5e378385fba24307711837e1b2f5cf6aafa6fbd770/hls-p/ingest_13610_1080p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
