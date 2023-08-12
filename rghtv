@@ -17,7 +17,7 @@
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 PERSIK Kediri VS PERSIS Solo - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691853011~acl=/hls-p/ingest_205_*/*~hmac=cc9b33bd6111c6d401b9c6093ddd8abbd22ba5f8f5bd9297e9295dece659ab64/hls-p/ingest_205_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1691853209~acl=/hls-p/ingest_205_*/*~hmac=729ec6e605668a6d9c01b0a1989ca2ebc17afba8a256e6c629fddf39ec25b1c4/hls-p/ingest_205_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",18.30 Arsenal VS Nottingham Forest
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
