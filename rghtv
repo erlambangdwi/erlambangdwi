@@ -516,25 +516,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 ########################## SPORTS ##########################
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519252_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519253_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519254_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519255_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519256_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519257_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519258_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 9
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519261_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" , OPTUS SPORT 10
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
