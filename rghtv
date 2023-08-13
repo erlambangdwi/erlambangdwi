@@ -20,15 +20,13 @@ https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f
 https://etslive-2-vidio-com.akamaized.net/exp=1691926205~acl=/hls-p/ingest_13797_*/*~hmac=cc18b0ad765ee877f2c598cb08202cece19a7e91927bac7d4cbb9406bb3006ad/hls-p/ingest_13797_1080p/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 Madura United VS Persija Jakarta - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXt_J2ymlCvB1ZlraLOSBeztwVpC2p6_AZ_Q&usqp=CAU" group-title="LIVE EVENT",19.00 Madura United VS Persija Jakarta - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
+https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 Borneo FC Samarinda VS PERSIKABO 1973 - BRI Liga 1
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1691941036~acl=/hls-p/ingest_13561_*/*~hmac=5dfd7308f29896a521c696e425e91ef4ee2e8f5f3d98c88a309f81802318e98f/hls-p/ingest_13561_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",20.00 Brentford VS Tottenham Hotspur
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
