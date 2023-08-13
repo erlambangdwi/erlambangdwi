@@ -13,8 +13,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",14.30 PERSIB Bandung vs Barito Putera - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
+https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",15.00 PSS Sleman VS Bayangkara Presisi FC - BRI Liga 1
 https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
