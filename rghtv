@@ -25,8 +25,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1691926205~acl=/hls-p/ingest_13797
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.livebola.repl.co/ch5
 https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 Borneo FC Samarinda VS PERSIKABO 1973 - BRI Liga 1
-http://103.166.27.2:800/play/a016
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",20.00 Brentford VS Tottenham Hotspur
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
