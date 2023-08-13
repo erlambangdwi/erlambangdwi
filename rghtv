@@ -11,53 +11,33 @@
 ########################## LIVE EVENT ##########################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",15.00 Persebaya Surabaya vs Persita Tanggerang - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",14.30 PERSIB Bandung vs Barito Putera - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 PERSIK Kediri VS PERSIS Solo - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691853209~acl=/hls-p/ingest_205_*/*~hmac=729ec6e605668a6d9c01b0a1989ca2ebc17afba8a256e6c629fddf39ec25b1c4/hls-p/ingest_205_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 PSS Sleman VS Bayangkara Presisi FC - BRI Liga 1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",18.30 Arsenal VS Nottingham Forest
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXt_J2ymlCvB1ZlraLOSBeztwVpC2p6_AZ_Q&usqp=CAU" group-title="LIVE EVENT",19.00 Madura United VS Persija Jakarta - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
+https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9kOs1ABqCGYQp8fmIMlmMcSnF4A=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/13610/bri-liga-1-cover-d35634.jpg" group-title="LIVE EVENT",19.0 Borneo FC Samarinda VS PERSIKABO 1973 - BRI Liga 1
+http://103.166.27.2:800/play/a016
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",20.00 Brentford VS Tottenham Hotspur
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium22/index.m3u8
+https://webudit.cdndac.lol/lb/premium130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 AFC Bournemouth VS West Ham United
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",22.30 Chelsea vs Liverpool
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium9/index.m3u8
+https://webudit.cdndac.lol/lb/premium130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Brighton and Hove Albion VS Luton Town FC
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Everton VS Fulham
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Sheffield United FC VS Crystal Palace
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",23.30 Newcastle United FC VS Aston Villa
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium19/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcBiU_i-WMc4gLkTryJwtVCBuDzS5MPZ_hhgs_GHWhjVlOBob8rI9Aoo&usqp=CAU" group-title="LIVE EVENT",02.00 Paris Saint Germain VS Lorient League 1
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium61/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="LIVE EVENT",02.30 Athletic Bilbao vs Real Madrid LA LIGA
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium451/index.m3u8
 
 
 ########################## NATIONAL TV ##########################
