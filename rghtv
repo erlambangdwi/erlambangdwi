@@ -574,6 +574,39 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 1
+#http://103.152.118.53:80/streams/optus_1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 2
+#http://103.152.118.53:80/streams/optus_2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 3
+#http://103.152.118.53:80/streams/optus_3/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 4
+#http://103.152.118.53:80/streams/optus_4/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 5
+#http://103.152.118.53:80/streams/optus_5/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 6
+#http://103.152.118.53:80/streams/optus_6/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 7
+#http://103.152.118.53:80/streams/optus_7/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 8
+#http://103.152.118.53:80/streams/optus_8/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 9
+#http://103.152.118.53:80/streams/optus_9/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 10
+#http://103.152.118.53:80/streams/optus_10/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 11
+#http://103.152.118.53:80/streams/optus_11/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
