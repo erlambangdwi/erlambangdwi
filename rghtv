@@ -15,7 +15,7 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1692013141~acl=/hls-p/ingest_205_*/*~hmac=aa937712a4dc764744702f60ccbed3490479ea028dd070f6c01659d9a10586a7/hls-p/ingest_205_1080p/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXt_J2ymlCvB1ZlraLOSBeztwVpC2p6_AZ_Q&usqp=CAU" group-title="LIVE EVENT",19.00 AREMA FC VS RANS Nusantara - BRI Liga 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 AREMA FC VS RANS Nusantara - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
