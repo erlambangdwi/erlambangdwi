@@ -831,25 +831,6 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/27
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 https://malay.yurendtv.biz.id/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports HD" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png" group-title="SPORT HD",Astro beIN Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
-https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png" group-title="SPORT HD",Astro beIN Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
-https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png" group-title="SPORT HD",Astro beIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
-https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
-
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD1premiumar.id" tvg-logo="https://i.postimg.cc/B6RvMCM2/beinSPORT HDpremium1-picsay.png",beIN SPORT HD Premium 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -926,22 +907,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d0007
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT SPORT HD 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium31/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT SPORT HD 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT SPORT HD 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium33/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT SPORT HD 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium34/index.m3u8
 
