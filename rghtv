@@ -10,28 +10,30 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",14.30 PERSEBAYA VS PSM Makasar - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 Bayangkara Presisi FC VS BORNEO - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1692372208~acl=/hls-p/ingest_205_*/*~hmac=83e6b29a48974f0dd623c322ae8c2321741cc691a508e392eb99a8792869c594/hls-p/ingest_205_1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 PERSITA Tanggerang VS PSS Sleman - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1692372664~acl=/hls-p/ingest_13797_*/*~hmac=4ebd0cd4b75883e99b240052e722498bd19c1294bbaf074209d51a8e84f283da/hls-p/ingest_13797_1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",16.00 FILIPINA U23 VS LAOS U23 PIALA AFF U23
-#EXTVLCOPT:http-referrer=https://penny2.superabbit77.win/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",01.45 Nottingham FC VS Sheffield Premier League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://01fhls.rbtv77.vip/by06rs001px/s2/v3a/aHR0cHMlM0ElMkYlMkZsaXZlY2RuLTAwMS5ydW1zcG9ydC5jb20=/vv/stream/6/tracks-v2/index.fmp4.m3u8
+https://webudit.cdndac.lol/lb/premium3/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",20.00 MALAYSIA U23 VS INDONESIA U23 PIALA AFF U23
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="LIVE EVENT",00.30 Mallorca vs Villareal LA LIGA
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="LIVE EVENT",02.30 Valencia vs Las Plamas LA LIGA
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uLoWGcwzWn4cniw8IpB1BuXd1eaUvQR1dQ&usqp=CAU" group-title="LIVE EVENT",01.00 Al Nasr VS Al Taawon Saudi Pro League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="LIVE EVENT",01.30 Bremen VS Bayern Munchen BUNDES LIGA
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium426/index.m3u8
 
 
 
