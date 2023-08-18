@@ -17,7 +17,7 @@
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 Bayangkara Presisi FC VS BORNEO - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1692372208~acl=/hls-p/ingest_205_*/*~hmac=83e6b29a48974f0dd623c322ae8c2321741cc691a508e392eb99a8792869c594/hls-p/ingest_205_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 PERSITA Tanggerang VS PSS Sleman - BRI Liga 1
 https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
@@ -27,8 +27,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
 https://01fhls.rbtv77.vip/by06rs001px/s2/v3a/aHR0cHMlM0ElMkYlMkZsaXZlY2RuLTAwMS5ydW1zcG9ydC5jb20=/vv/stream/6/tracks-v2/index.fmp4.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",20.00 MALAYSIA U23 VS INDONESIA U23 PIALA AFF U23
-http://nonton.wap.sh/id/009.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
+https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 
 
