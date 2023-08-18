@@ -23,7 +23,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561
 https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",16.00 FILIPINA U23 VS LAOS U23 PIALA AFF U23
-http://nonton.wap.sh/id/009.m3u8
+#EXTVLCOPT:http-referrer=https://penny2.superabbit77.win/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://01fhls.rbtv77.vip/by06rs001px/s2/v3a/aHR0cHMlM0ElMkYlMkZsaXZlY2RuLTAwMS5ydW1zcG9ydC5jb20=/vv/stream/6/tracks-v2/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",20.00 MALAYSIA U23 VS INDONESIA U23 PIALA AFF U23
 http://nonton.wap.sh/id/009.m3u8
