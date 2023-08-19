@@ -1311,12 +1311,6 @@ http://103.152.118.53:80/streams/golefcenel/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium405/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 1
-#http://103.152.118.53:80/streams/optus_1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 2
-#http://103.152.118.53:80/streams/optus_2/index.m3u8
-
 #EXTINF:-1 group-title="SPORT HD" tvg-id="orangesport1.ro" tvg-logo="https://i.imgur.com/6bnikru.png",Orange Sport 1 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1516,7 +1510,8 @@ http://webudit.cdnhks.lol/lb/premium415/index.m3u8
 http://webudit.cdnhks.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="SS PL" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SuperSport Premier League
-https://us.catchystream.xyz/playlist/stream_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="SS PSL" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",SuperSport PSL
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
