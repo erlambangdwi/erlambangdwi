@@ -1405,7 +1405,7 @@ http://webudit.cdnhks.lol/lb/premium449/index.m3u8
 #EXTINF:-1 group-title="SPORT HD" tvg-id="skySPORT HDpremierleague.uk" tvg-logo="https://i.imgur.com/DSrBVhv.png",Sky SPORT HD Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium130/index.m3u8
+https://webudit.cdnhks.lol/lb/premium595/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="soccerchannel.id" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
