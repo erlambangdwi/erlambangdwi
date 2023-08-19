@@ -79,9 +79,7 @@ https://webudit.cdndac.lol/lb/premium451/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",01.45 Manchester City vs Newcastle Premier League
-#EXTVLCOPT:http-referrer=https://pipcast.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://eli.pogocast.xyz:8018/view/hls/2JuMMhPEllaOVIoCv5ZLew/1692464209/spch68.m3u8
+http://103.152.118.53:80/streams/optus_1/index.m3u8
 
 
 
