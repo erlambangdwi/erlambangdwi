@@ -31,9 +31,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1692459030~acl=/hls-p/ingest_13610
 https://webudit.cdndac.lol/lb/premium15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Liverpool VS Bournemouth Premier League
-#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://webudit.cdndac.lol/lb/premium16/index.m3u8
+#https://us.catchystream.xyz/playlist/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Wolves VS Brighton Premier League
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
