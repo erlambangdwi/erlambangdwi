@@ -23,7 +23,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1692444627~acl=/hls-p/ingest_13561
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 PS Barito Putera VS Persik Kediri - BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1692459030~acl=/hls-p/ingest_13610_*/*~hmac=c9cd07af76b8e854b9c12e3368a9137f8487eaa0d4fa7cb324780f843fe3a68c/hls-p/ingest_13610_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Fullham VS Brentford Premier League
 #EXTVLCOPT:http-referrer=https://superwebplay.xyz/
