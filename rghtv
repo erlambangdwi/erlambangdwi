@@ -24,6 +24,46 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 PS Barito Putera VS Persik Kediri - BRI Liga 1
 https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Fullham VS Brentford Premier League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Liverpool VS Bournemouth Premier League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",21.00 Wolves VS Brighton Premier League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j7uFy3yUcMtS6EE4j2fGAisghLVbAWkEUQ&usqp=CAU" group-title="LIVE EVENT",23.30 Tottenham Hotspur VS Manchester United Premier League
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="LIVE EVENT",22.00 Real Sociedad vs Celta de Vigo LA LIGA
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium538/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1200px-Serie_A_logo_2022.svg.png" group-title="LIVE EVENT",23.30 Empoli VS Hellas Verona Italia Serie A
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1200px-Serie_A_logo_2022.svg.png" group-title="LIVE EVENT",23.30 Frosinone VS Napoli Italia Serie A
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="LIVE EVENT",20.30 Bayer Leverkusen vs RB Leipzig BUNDES LIGA
+#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
+https://webudit.cdndac.lol/lb/premium5/index.m3u8
+
 
 
 ########################## NATIONAL TV ##########################
