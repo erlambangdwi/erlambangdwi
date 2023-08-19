@@ -16,6 +16,15 @@ https://etslive-2-vidio-com.akamaized.net/exp=1692444273~acl=/hls-p/ingest_205_*
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",14.30 RANS NUSANTARA FC VS DEWA UNITED - BRI Liga 1
 https://etslive-2-vidio-com.akamaized.net/exp=1692444627~acl=/hls-p/ingest_13561_*/*~hmac=2296f720839863d36e39921d627bdf7cbc61d851a053be1ba38ae7ec7cd96c55/hls-p/ingest_13561_1080p/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",18.30 Persis Solo vs Bali United - BRI Liga 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="LIVE EVENT",19.00 PS Barito Putera VS Persik Kediri - BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1691148755~acl=/hls-p/ingest_13561_*/*~hmac=c924b88a4beded802a69655f8e913923927e12e5c450fdc1381a87658e2c8152/hls-p/ingest_13561_240p/index.m3u8
+
+
 
 ########################## NATIONAL TV ##########################
 
