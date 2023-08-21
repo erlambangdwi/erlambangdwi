@@ -10,10 +10,54 @@
 
 ########################## LIVE EVENT ##########################
 
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 01
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 02
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 03
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 04
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 05
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 06
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 07
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 08
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 09
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 10
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 11
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 12
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 13
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 14
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 15
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 
 ########################## LIVE SOCCER ##########################
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,6 +99,7 @@ https://eee.catchystream.xyz/playlist/stream_e5.m3u8
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 10
 https://eee.catchystream.xyz/playlist/stream_e6.m3u8
+
 
 
 ########################## LIVE SPORT ##########################
