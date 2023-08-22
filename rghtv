@@ -564,21 +564,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2*
 https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNzAwLnRz
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
-http://xtv.ooo:8080/19705/19705/350916
-
-#EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2
-http://xtv.ooo:8080/19705/19705/350917
-
-#EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3
-http://xtv.ooo:8080/19705/19705/350918
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/768px-DAZN_F1_logo.svg.png?20220719171020" group-title="SPORTS",F1_DAZN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -813,55 +798,37 @@ http://mupr.25zlma.net/douzi44_201130/lE5oTZ3S/306392
 http://odtv.uk:80/live/3028968008/9141808032/1913.m3u8
 #http://103.152.118.53:80/streams/astro/arena_2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" group-title="Sports",Astro SuperSport UHD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg","kid":"IvvvHBzXJek5fsFkVfCCEA"}],"type":"temporary"}
+https://1.yurend.xyz/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="Sports",Astro SuperSport 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
+https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+**https://astrompd2.thescript2.workers.dev/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sports",Astro SuperSport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium370/index.m3u8
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sports",Astro SuperSport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium123/index.m3u8
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest",Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="astrosupersport5.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest",Astro SuperSport 5
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium43/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD1ar.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORT HD1-DIGITAL-Mono-picsay.png",beIN SPORT HD 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium91/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD2ar.id" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORT HD2-DIGITAL-Mono-picsay.png",beIN SPORT HD 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium92/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD3ar.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORT HD3-DIGITAL-Mono-picsay.png",beIN SPORT HD 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium93/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD4ar.id" tvg-logo="https://i.postimg.cc/prmHz0sh/be-IN-SPORT HD4-DIGITAL-Mono-picsay.png",beIN SPORT HD 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="Sports",Astro SuperSport 4 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
+https://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD5ar.id" tvg-logo="https://i.postimg.cc/xTbQd4kB/be-IN-SPORT HD5-DIGITAL-Mono-picsay.png",beIN SPORT HD 5
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
