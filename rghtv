@@ -245,7 +245,7 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://103.166.27.2:800/play/a01c
 
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png" group-title="National ",Trans 7 HD
-#http://watchlive.my.id/8544/73609
+http://watchlive.my.id/4b60123137/162502
 
 #EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png", Trans 7 SD 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
