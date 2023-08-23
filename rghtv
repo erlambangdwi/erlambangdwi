@@ -682,7 +682,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="MNCSports4.id" tvg-name="MNC Sports 3" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_88.png" group-title="SPORTS",Sportstars 4
+#EXTINF:0 tvg-id="MNCSports4.id" tvg-name="MNC Sports 3" tvg-logo="https://i.ibb.co/njXqRNY/Desain-tanpa-judul-20230823-192012-0000.png" group-title="SPORTS",Sportstars 4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
