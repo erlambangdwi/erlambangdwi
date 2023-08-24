@@ -10,16 +10,6 @@
 
 ########################## LIVE EVENT ##########################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",16.00 MALAYSIA U23 VS VIETNAM U23 PIALA AFF U23
-#EXTVLCOPT:http-referrer=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGuxTT4IBg7h3PQ_oDHTmQCHaYnrZTMEXYw&usqp=CAU" group-title="LIVE EVENT",20.00 INDONESIA U23 VS TIMOR LESTE U23 PIALA AFF U23
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 
 
