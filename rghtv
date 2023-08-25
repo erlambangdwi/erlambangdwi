@@ -58,6 +58,12 @@ https://eee.catchystream.xyz/playlist/stream_e5.m3u8
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 10
 https://eee.catchystream.xyz/playlist/stream_e6.m3u8
 
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 11
+https://us.catchystream.xyz/playlist/stream_7.m3u8
+
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 12
+https://us.catchystream.xyz/playlist/stream_8.m3u8
+
 ########################## LIVE SPORT ##########################
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 01
