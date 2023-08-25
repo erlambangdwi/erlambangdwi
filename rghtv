@@ -17,6 +17,11 @@
 ########################## LIVE SOCCER ##########################
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Soccer",14.30 Madura United FC VS Bhayangkara Presisi FC - BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1692962237~acl=/hls-p/ingest_205_*/*~hmac=fb8113a70acabfea75edb0365f0ab8ba4041011e38026afd8deac565d3eb8ddf/hls-p/ingest_205_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Soccer",14.30 PERSIK Kediri vs PSIS Semarang - BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1692963024~acl=/hls-p/ingest_13797_*/*~hmac=578b9e22b44cb3fa4a1329f95449669bfb3c565e9722ddcba8bf4f5c993cd5e0/hls-p/ingest_13797_1080p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
