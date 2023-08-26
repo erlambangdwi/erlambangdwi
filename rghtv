@@ -40,16 +40,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 01
-https://us.catchystream.xyz/playlist/stream_1.m3u8
+https://livenflstream.xyz/playlist/stream_1.m3u8
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 02
-https://us.catchystream.xyz/playlist/stream_2.m3u8
+https://livenflstream.xyz/playlist/stream_2.m3u8
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 03
-https://us.catchystream.xyz/playlist/stream_3.m3u8
+https://livenflstream.xyz/playlist/stream_3.m3u8
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 04
-https://eee.catchystream.xyz/playlist/stream_e1.m3u8
+https://livenflstream.xyz/playlist/stream_4.m3u8
 
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Soccer" tvg-logo="https://i.ibb.co/Tm6VGM6/SGN-08-21-2023-1692555100874.png" group-title="Live Soccer", Live Soccer 05
 https://eee.catchystream.xyz/playlist/stream_e2.m3u8
