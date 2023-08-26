@@ -221,7 +221,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 http://103.166.27.2:800/play/a015
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV HD
-http://103.30.87.238:443/caknur/segopecel/890
+http://103.152.118.53:80/play/esceteve/index.m3u8
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
