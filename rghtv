@@ -20,30 +20,30 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Soccer", LIGA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Sport", LIGA 1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Soccer", LIGA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU" group-title="Live Sport", LIGA 1
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 01
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 01
 https://livenflstream.xyz/playlist/stream_1.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 02
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 02
 https://livenflstream.xyz/playlist/stream_2.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 03
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 03
 https://livenflstream.xyz/playlist/stream_3.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 04
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 04
 https://livenflstream.xyz/playlist/stream_4.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 05
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 05
 https://livenflstream.xyz/playlist/stream_5.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Soccer", Live Soccer 06
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 06
 https://livenflstream.xyz/playlist/stream_6.m3u8
 
 
