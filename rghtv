@@ -3110,3 +3110,10 @@ https://api.thomasandi.my.id/ss/index.m3u8?id=4d3rkcreroy0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESw54z-teOAvoQILHz6x2HIzkCa6KOqiosw&usqp=CAU" group-title="VOD",Alena: Anak Ratu Iblis (2023)
 https://api.thomasandi.my.id/ss/index.m3u8?id=eq20pinmy3mv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLk44AnJedSIgUqILfT1CqQVr5-kERTa8w&usqp=CAU" group-title="VOD",Indiana Jones and the Dial of Destiny (2023)
+https://api.thomasandi.my.id/ss/index.m3u8?id=6rdj0z416gyb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Boogeyman_2023_poster.png/220px-The_Boogeyman_2023_poster.png" group-title="VOD",The Boogeyman (2023)
+https://api.thomasandi.my.id/ss/index.m3u8?id=lapk4srykgqk
+
