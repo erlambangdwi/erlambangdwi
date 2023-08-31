@@ -663,25 +663,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="SPORTS" tvg-id="TNT SPORT1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png",TNT Sports 1
-#EXTVLCOPT:http-referrer=https://pipcast.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://l6.dodocast.xyz:8018/view/hls/lc0B5meRKUCqZOLKr9nO5A/1689843827/bbtsp1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="SPORTS" tvg-id="TNT SPORT2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png",TNT Sports 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium32/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="SPORTS" tvg-id="TNT SPORT3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png",TNT Sports 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium33/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNT SPORT4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png",TNT Sports 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium34/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNT SPORT4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png",TNT Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -935,26 +941,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d0007
 
 #EXTINF:-1 group-title="SPORT HD" tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT SPORT HD 1
-#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium31/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT SPORT HD 2
-#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium32/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT SPORT HD 3
-#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium33/index.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT SPORT HD 4
-#EXTVLCOPT:http-referrer=#EXTVLCOPT:http-referrer=https://superwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/05/boxing-tv-logo-white.png",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
