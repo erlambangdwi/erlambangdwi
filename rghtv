@@ -3135,3 +3135,28 @@ https://api.thomasandi.my.id/ss/index.m3u8?id=nscws3wtcrdn
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkaUJ1dtvlUkEPTqWlSSaagGCKItZyWxYqw&usqp=CAU" group-title="VOD",The Moon (2023)
 https://api.thomasandi.my.id/ss/index.m3u8?id=mt584xycbwhk
 
+#########################VOD Series#########################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 1 (2023)
+https://www45.uptostream.com/stream/9lj5bxa98d/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 2 (2023)
+https://www78.uptostream.com/stream/9ljfld54cc/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 3 (2023)
+https://www37.uptostream.com/stream/9lji5qbf8c/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 4 (2023)
+https://www104.uptostream.com/stream/9ljkq88a7f/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 5 (2023)
+https://www78.uptostream.com/stream/9ljn5ga985/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 6 (2023)
+https://www93.uptostream.com/stream/9ljpjz5f9a/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 7 (2023)
+https://www94.uptostream.com/stream/9ljrxe3720/_m_main_0.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrY7pgRa-x6go1ukokgB8-gjH41fRmDAdKQ&usqp=CAU" group-title="VOD Series",One Piece Episode 8 (2023)
+https://www53.uptostream.com/stream/9ljubdc5c0/_m_main_0.mpd
