@@ -1150,16 +1150,21 @@ http://103.152.118.53:80/streams/jesport_telu/index.m3u8
 #EXTINF:-1 group-title="SPORT HD" tvg-id="jSPORT HD4.jp" tvg-logo="https://www.jSPORT HD.co.jp/img/icon/ch4.png",J SPORT HD 4
 http://103.152.118.53:80/streams/jesport_papat/index.m3u8
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="kplussport1.vn" tvg-logo="https://i.imgur.com/wO41sHC.png",K+ Sport 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=kaplussport1
-https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
+#EXTINF:-1 tvg-id="ksports1hd" group-title="SPORT HD" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
+//#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bvnukuDbf44AjVtYl8n2OA", "kid":"VP/jLV2PVCr+jEHIOdC5QQ" } ], "type":"temporary" }
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYEYuIWRhtfhWJ-fbI0rM0C/m3u8
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="kplussport2.vn" tvg-logo="https://i.imgur.com/5LTBnLn.png",K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=kaplussport2
-http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
-
+#EXTINF:-1 tvg-id="ksports2hd" group-title="SPORT HD" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
+//#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }, { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" } , { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }], "type":"temporary" }
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="SPORT HD",LFCTV
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
