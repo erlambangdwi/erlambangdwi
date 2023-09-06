@@ -1159,12 +1159,12 @@ http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYEYuIWRhtfhWJ
 #https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksports2hd" group-title="SPORT HD" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android 12;M2007J3SG Build/SKQ1.211006.001) AppleWebkit/537.36(KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }, { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" } , { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }], "type":"temporary" }
-http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
-#https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="SPORT HD",LFCTV
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
