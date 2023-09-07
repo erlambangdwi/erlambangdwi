@@ -209,9 +209,7 @@ http://103.166.27.2:800/play/a016
 http://103.30.87.238:443/caknur/segopecel/907
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
