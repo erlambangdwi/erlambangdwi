@@ -96,39 +96,39 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 #EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport" tvg-logo="https://i.ibb.co/94pkCcj/SGN-08-21-2023-1692599441170.png" group-title="Live Sport", Live Sport 21
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 1
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream1.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 2
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream2.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 3
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream3.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 4
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream4.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 5
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream5.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 6
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream6.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 7
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream7.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 8
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream8.m3u8|referer=https://embed4u.xyz/
 
-#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 9
+#EXTINF: -1 tvg-id="livefootball1.id" tvg-name="Live Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJgGNoMBBYFelCs0Ao8RjNBVRn-XeARHo7A&usqp=CAU" group-title="Live Sport 2", Live Sport 09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://usa.raino.xyz/hls/stream9.m3u8|referer=https://embed4u.xyz/
 
