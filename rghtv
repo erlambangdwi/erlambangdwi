@@ -478,8 +478,8 @@ https://akm611a-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyP
 
 #EXTINF:0 tvg-id="Galaxy.Id" tvg-logo="https://i.postimg.cc/W1YdhPny/SGN-07-05-2023-1688554070898.png" group-title="MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-http://202.147.204.114/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+http://tvgo.my.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:0 tvg-id="IMC.Id" tvg-logo="https://i.postimg.cc/ZKTgqk0p/SGN-07-05-2023-1688554206002.png" group-title="MOVIES",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
