@@ -820,11 +820,14 @@ https://webudit.webdicdn.lol/lb/premium135/index.m3u8
 https://webudit.webdicdn.lol/lb/premium139/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena 1
-http://mupr.25zlma.net/douzi44_201130/lE5oTZ3S/306392
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+https://malay.yurendtv.biz.id/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="astroarena2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",Astro Arena 2
-http://odtv.uk:80/live/3028968008/9141808032/1913.m3u8
-#http://103.152.118.53:80/streams/astro/arena_2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+https://malay.yurendtv.biz.id/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="SPORT HD",Astro SuperSport 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
