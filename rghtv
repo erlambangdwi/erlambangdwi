@@ -525,30 +525,35 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 ---------------HBO HD
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO (MY)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO (MAX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family (MY)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family (MAX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png",HBO Hits (MY)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits (MAX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -565,10 +570,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax (MY)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax (MAX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
