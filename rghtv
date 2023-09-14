@@ -909,11 +909,11 @@ https://webudit.webdicdn.lol/lb/premium118/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORT HD1-DIGITAL-Mono-picsay.png",beIN SPORT HD Indonesia 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/26
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORT HD3-DIGITAL-Mono-picsay.png",beIN SPORT HD Indonesia 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/27
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD1.my" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORT HD1-DIGITAL-Mono-picsay.png",beIN SPORT HD Malaysia 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
