@@ -282,7 +282,7 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://103.166.27.2:800/play/a01c
 
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png" group-title="National ",Trans 7 HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+https://api.thomasandi.my.id/api/usi/hls.m3u8?id=trans7
 
 #EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png", Trans 7 SD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
