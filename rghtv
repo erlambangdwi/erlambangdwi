@@ -533,6 +533,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
+#EXTVLCOPT:http-user-agent=......................................................................
 http://103.150.117.215:25461/hometv@v1/server@sports215/7912
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO (MAX)
@@ -549,6 +550,7 @@ http://103.150.117.215:25461/hometv@v1/server@sports215/7912
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
+#EXTVLCOPT:http-user-agent=......................................................................
 http://103.150.117.215:25461/hometv@v1/server@sports215/7915
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family (MAX)
@@ -565,6 +567,7 @@ http://103.150.117.215:25461/hometv@v1/server@sports215/7915
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
+#EXTVLCOPT:http-user-agent=......................................................................
 http://103.150.117.215:25461/hometv@v1/server@sports215/7914
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits (MAX)
@@ -574,6 +577,7 @@ http://103.150.117.215:25461/hometv@v1/server@sports215/7914
 #https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
+#EXTVLCOPT:http-user-agent=......................................................................
 http://103.150.117.215:25461/hometv@v1/server@sports215/7913
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature (MAX)
