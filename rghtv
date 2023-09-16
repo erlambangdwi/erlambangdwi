@@ -682,37 +682,37 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 01
-http://103.152.118.53:80/streams/optus_1/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754604
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 02
-http://103.152.118.53:80/streams/optus_2/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754605
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 03
-http://103.152.118.53:80/streams/optus_3/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754606
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 04
-http://103.152.118.53:80/streams/optus_4/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754607
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 05
-http://103.152.118.53:80/streams/optus_5/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754608
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 06
-http://103.152.118.53:80/streams/optus_6/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754609
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 07
-http://103.152.118.53:80/streams/optus_7/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754610
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 08
-http://103.152.118.53:80/streams/optus_8/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754611
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 09
-http://103.152.118.53:80/streams/optus_9/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754612
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 10
-http://103.152.118.53:80/streams/optus_10/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754613
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 11
-http://103.152.118.53:80/streams/optus_11/index.m3u8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754614
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
