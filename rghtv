@@ -354,6 +354,8 @@ http://175.158.62.142:8888/stream/channelid/1836684688?ticket=1546440E2633C88E50
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/gVNymdF/SGN-07-05-2023-1688545281384.png" group-title="National",TVRI
 https://akm611a-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="National",VTV HD
+http://175.158.62.142:8888/stream/channelid/1035439605?ticket=4A00E8DEB2CAF5B1CF92583C2A51541C80061F3A&profile=pass
 
 ########################## MOVIES ##########################
 
