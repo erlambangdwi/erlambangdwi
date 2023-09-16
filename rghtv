@@ -1687,7 +1687,7 @@ http://thefirefox12537.github.io/streams/nosignal/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.webdicdn.lol/lb/premium343/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Lokal",USA Network 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="SPORT HD",USA Network 2
 http://startv365.com/3634358837/1009221634/400216153
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSPORT HD 1
