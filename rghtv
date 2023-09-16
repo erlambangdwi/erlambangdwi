@@ -2631,6 +2631,28 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51b
 
 ########################## KIDS ##########################
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQReRnxP6OcACmTgCuQwJE9WDcFN1JT4t7GGg&usqp=CAU" group-title="KIDS",24/7 Angry Birds Toons
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472133
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlstr8tiCGVkvoXKdU-O2_uyWIdy2ERe-Ivw&usqp=CAU" group-title="KIDS",24/7 BabyBus Indonesia
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472134
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCe0-Pz0SzPKvXRimuKrmMfloioLaRuFh9w&usqp=CAU" group-title="KIDS",24/7 Donald Ducks
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472135
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGphH89ec3QOxC57WtRWyN4DRFQhTBft6Kig&usqp=CAU" group-title="KIDS",24/7 Doraemon
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472136
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2nyVXGFC4gJrqeiK9P9tkWblNX2ou9av4g&usqp=CAU" group-title="KIDS",24/7 Mr Bean Cartoon
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472138
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbZO18KnsaMuHP2UHkziElXP1sQ-mBJG1iQ&usqp=CAU" group-title="KIDS",24/7 Tom And Jerry
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472140
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQz8MFgr8Imo9D9rLJOJORVZLozlo6spZpQ&usqp=CAU" group-title="KIDS",24/7 Upin Ipin
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472141
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV Asia
