@@ -357,6 +357,13 @@ https://akm611a-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersat
 
 ########################## MOVIES ##########################
 
+
+#EXTINF:0 tvg-id="Mr. Bean Classic.id" tvg-logo="https://assets-a1.kompasiana.com/items/album/2021/04/27/mr-bean-3db451-6087db94d541df174362e672.jpg?t=o&v=1200" group-title="MOVIES",24/7 Mr. Bean Classic
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472139
+
+#EXTINF:0 tvg-id="Warkop DKI.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ1oRXwvrwA2JvT3GP4zG8xVFULxxx8ZQdA&usqp=CAU" group-title="MOVIES",24/7 Warkop DKI
+http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472142
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/qY3Dk0J/BOO.png", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
