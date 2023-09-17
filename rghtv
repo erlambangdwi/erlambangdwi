@@ -1,10 +1,7 @@
-<!DOCTYPE html><head></head><body><!DOCTYPE html><!DOCTYPE html>
-<html lang="en">
-<script language="javascript">
-  window.location = "https://youtu.be/dQw4w9WgXcQ";
-</script>
-
-<script>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^https://raw.githubusercontent.com/erlambangdwi/erlambangdwi/main/rghtv$ [NC]
+RewriteRule ^(.*)$ google.com.com [R=301,L]
 
 
 #EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
