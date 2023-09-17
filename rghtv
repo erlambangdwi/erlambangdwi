@@ -1,4 +1,11 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="Test Playlist Astro"
+<!DOCTYPE html><head></head><body><!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<script language="javascript">
+  window.location = "https://youtu.be/dQw4w9WgXcQ";
+</script>
+
+<script>
+
 
 #EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
