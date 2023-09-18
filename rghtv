@@ -453,8 +453,7 @@ https://akm611a-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTINF:0 tvg-id="HitsMOVIES.Id" tvg-logo="https://i.postimg.cc/sXb3Y6W3/SGN-07-05-2023-1688575760042.png" group-title="MOVIES",HITS MOVIES
-#https://newanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-http://175.158.62.142:8888/stream/channelid/878781691?ticket=D9185267C5A59FF296E21262DFC637A9439E3BE3&profile=pass
+https://newanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:0 tvg-id="HITS.Id" tvg-logo="https://i.postimg.cc/W4fp5bZm/SGN-07-05-2023-1688551691418.png" group-title="MOVIES",HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
