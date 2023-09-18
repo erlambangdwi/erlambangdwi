@@ -487,10 +487,12 @@ https://akm611a-live-cdn.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
 https://akm611a-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRm6HHhz/SGN-07-05-2023-1688552993200.png" group-title="MOVIES",Zee Cinema HD
-https://toffee-v2.sabbirhasan.trial.rocks/auto/zee_cinema_hd.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5106
+https://malay.yurendtv.biz.id/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHPs2Jy/SGN-07-05-2023-1688560701436.png" group-title="MOVIES",Zee Bollywood
-https://toffee-v2.sabbirhasan.trial.rocks/auto/zee_bolly.m3u8
+#https://toffee-v2.sabbirhasan.trial.rocks/auto/zee_bolly.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
