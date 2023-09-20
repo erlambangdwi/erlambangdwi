@@ -479,7 +479,7 @@ https://akm611a-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celesti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTINF:0 tvg-id="tvNMOVIES.Id" tvg-logo="https://i.postimg.cc/90WzRNHz/SGN-07-05-2023-1688552350828.png" group-title="MOVIES",tvN MOVIES
-https://akm611a-live-cdn.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
