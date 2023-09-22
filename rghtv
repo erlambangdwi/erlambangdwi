@@ -288,7 +288,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8|referer=https://www.rctiplus.com/
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National",SCTV FHD
-http://103.30.87.238:443/caknur/segopecel/890
+#http://103.30.87.238:443/caknur/segopecel/890
+http://tvnid.x10.mx/vidio/master-1.m3u8
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://i.ibb.co/tYy54BL/SGN-07-05-2023-1688543189799.png" group-title="National ",SCTV SD
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
@@ -300,7 +301,7 @@ http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 http://175.158.62.142:8888/stream/channelid/1789598785?ticket=8A1B2195190035D911308CDFD2332DDF8366CCFA&profile=pass
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
-http://103.166.27.2:800/play/a016
+http://tvnid.x10.mx/vidio/master.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR LIVE
 http://103.30.87.238:443/caknur/segopecel/907
@@ -317,7 +318,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://etus.link/NOJII
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.postimg.cc/6Qh4PTgS/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI HD
-http://103.166.27.2:800/play/a017
+http://tvnid.x10.mx/vidio/master-2.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.ibb.co/hHjhK5d/SGN-07-05-2023-1688543604162.png" group-title="National ",MOJI HD
 #https://raw.githubusercontent.com/mimipipi22/nontontv/42e8cc9c957311d5ee8d69416a278be4c94576f7/FMX/moji.m3u8
