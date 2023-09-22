@@ -590,7 +590,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
-http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472210
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(MX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -604,7 +604,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
-http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472211
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(MX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -619,7 +619,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
-http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472212
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(MX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -627,7 +627,7 @@ http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472212
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
-http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472213
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(MX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -647,7 +647,7 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax
-http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472177
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://i.postimg.cc/T15ftpW8/SGN-07-05-2023-1688560561637.png" group-title="MOVIES",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
