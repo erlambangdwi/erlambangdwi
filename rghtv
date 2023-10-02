@@ -529,11 +529,11 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/cubmu
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-http://103.84.206.91:8989/3994/hls/playlist.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -544,11 +544,11 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbofam-max.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/cubmu
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-http://103.84.206.91:8989/4038/hls/playlist.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -560,20 +560,20 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(MX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohits-max.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/cubmu
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-http://103.84.206.91:8989/4037/hls/playlist.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(MX)
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbosig-max.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/cubmu
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-http://103.84.206.91:8989/4036/hls/playlist.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -582,11 +582,11 @@ http://103.84.206.91:8989/4036/hls/playlist.m3u8
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax (MY)
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 
-#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax(MX)
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/cubmu
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-http://103.84.206.91:8989/4039/hls/playlist.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
