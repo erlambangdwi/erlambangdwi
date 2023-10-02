@@ -527,7 +527,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+http://nonton.site:8080/ekos/7483/210
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -542,7 +542,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+http://nonton.site:8080/ekos/7483/592
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -558,7 +558,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+http://nonton.site:8080/ekos/7483/591
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -567,7 +567,7 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
+http://nonton.site:8080/ekos/7483/873
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -595,7 +595,7 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://i.postimg.cc/pTHPs2Jy/SGN-07-05-2023-1688560701436.png",Bioskop Indonesia
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
+http://nonton.site:8080/ekos/7483/2156
 
 
 
