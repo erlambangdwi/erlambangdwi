@@ -527,7 +527,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3008.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/412
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -542,7 +542,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/415
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -558,7 +558,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/413
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -567,7 +567,7 @@ http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3009.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/414
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -589,7 +589,7 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3012.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/424
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://i.postimg.cc/T15ftpW8/SGN-07-05-2023-1688560561637.png" group-title="MOVIES",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
@@ -1212,18 +1212,6 @@ http://103.152.118.53:80/streams/jesport_telu/index.m3u8
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="jSPORT HD4.jp" tvg-logo="https://www.jSPORT HD.co.jp/img/icon/ch4.png",J SPORT HD 4
 http://103.152.118.53:80/streams/jesport_papat/index.m3u8
-
-#EXTINF:-1 tvg-id="ksports1hd" group-title="SPORT HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/1756?cb=20220127021303&path-prefix=vi",K+ Sports 1 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=634e0dfbbf2689c0be60bde5ee4f59dd:f771bc567ebe5a49a3b41390b4859f67
-#https://quiet-rain-1d8f.wkwkw.workers.dev:443/vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksports2hd" group-title="SPORT HD" tvg-logo="https://i.imgur.com/bzACfOj.png",K+ Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff262eaf45a95e918b159f8ab8c4e167:1616ad1c7e3b66dcef0c3e624b20c199
-#https://quiet-rain-1d8f.wkwkw.workers.dev:443/vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="SPORT HD",LFCTV
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
