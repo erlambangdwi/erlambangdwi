@@ -527,7 +527,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
-http://103.84.206.6:80/stream/1/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
+http://103.84.206.6:80/stream/4/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
