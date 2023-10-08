@@ -779,19 +779,23 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099226
 
 ########################## SPORT HD ########################
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="abudhabiSPORT HD1.ae" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-SPORT HD-1-live.png",Abu Dhabi SPORT HD 1
-https://admdn1.cdn.mangomolo.com/adSPORT HD1/smil:adSPORT HD1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Play_Sports_1_2021.svg/revision/latest/scale-to-width-down/250?cb=20230830090028" group-title="SPORT HD",Play Sport 1
+hd#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="abudhabiSPORT HD2.ae" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-SPORT HD-2-live.png",Abu Dhabi SPORT HD 2
-https://admdn5.cdn.mangomolo.com/adSPORT HD2/smil:adSPORT HD2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185038405652_image-header_pRow_1688020142000&quality=70" group-title="SPORT HD",Play Sport 2
+hd#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="SPORT HD" tvg-id="abudhabiSPORT HD3.ae" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-SPORT HD-3-live.png",Abu Dhabi SPORT HD 3
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-#https://admdn3.cdn.mangomolo.com/adSPORT HD3/smil:adSPORT HD3.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT HD" tvg-id="abudhabiSPORT HD4.ae" tvg-logo="https://www.tunisvista.com/medias/abu-dhabi-SPORT HD-4-live.png",Abu Dhabi SPORT HD 4
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-#https://admdn4.cdn.mangomolo.com/adSPORT HD4/smil:adSPORT HD4.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBV_zfS0eLIJU7H88A_KoBP53RGbys4rBMZQ&usqp=CAU" group-title="SPORT HD",Play Sport 3
+hd#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="arenasport1serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport1.png",Arena Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
