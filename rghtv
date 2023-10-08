@@ -527,7 +527,7 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO
-http://tvkuonline.my.id:25461/riyad/riyad/412
+http://103.84.206.6:80/stream/1/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -542,7 +542,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family
-http://tvkuonline.my.id:25461/riyad/riyad/415
+http://103.84.206.6:80/stream/2/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpV43Jp1/SGN-07-05-2023-1688558560610.png" group-title="MOVIES",HBO Family(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -558,7 +558,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png",HBO Hits
-http://tvkuonline.my.id:25461/riyad/riyad/413
+http://103.84.206.6:80/stream/3/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSjzWjc/SGN-08-17-2023-1692213629847.png" group-title="MOVIES",HBO Hits(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -567,7 +567,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/413
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature
-http://tvkuonline.my.id:25461/riyad/riyad/414
+http://103.84.206.6:80/stream/1/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.postimg.cc/k4kkXwDZ/SGN-07-05-2023-1688560144822.png" group-title="MOVIES",HBO Signature(cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -589,7 +589,7 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/fTM8764C/SGN-07-05-2023-1688560271269.png" group-title="MOVIES",Cinemax
-http://tvkuonline.my.id:25461/riyad/riyad/424
+http://103.84.206.6:80/stream/5/index.m3u8?username=ApnJLI0CnZ&password=Sngj3WVOUG
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://i.postimg.cc/T15ftpW8/SGN-07-05-2023-1688560561637.png" group-title="MOVIES",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
