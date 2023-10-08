@@ -345,7 +345,7 @@ http://luna.podzone.net:8000/Franori/KwXX37yPZaMp/472142
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/qY3Dk0J/BOO.png", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-https://malay.yurendtv.biz.id/dash-wv/linear/2407/default_primary.mpd
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2407/default.mpd
 
 #EXTINF:0 tvg-id="CinemaChi.Id" tvg-logo="https://i.ibb.co/bbNv6G0/SGN-07-05-2023-1688546326585.png" group-title="MOVIES ",CinemaChi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
