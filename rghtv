@@ -840,22 +840,27 @@ https://malay.yurendtv.biz.id/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="SPORT HD",Astro SuperSport 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
+#https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
+http://startv365.com/0664251418/9924187372/6591
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORT HD",Astro SuperSport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
+#https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
+http://startv365.com/0664251418/9924187372/6589
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORT HD",Astro SuperSport 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
+#https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
+http://startv365.com/0664251418/9924187372/6588
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORT HD",Astro SuperSport 4 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webudit.vipboxtv.stream/lb/premium126/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="beinSPORT HD5ar.id" tvg-logo="https://i.postimg.cc/xTbQd4kB/be-IN-SPORT HD5-DIGITAL-Mono-picsay.png",beIN SPORT HD 5
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
