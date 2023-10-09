@@ -1178,6 +1178,36 @@ https://webudit.vipboxtv.stream/lb/premium39/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.webdicdn.lol/lb/eplayerfs2/index.m3u8
 
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 1" tvg-logo="https://tv.qreatifku.my.id/images/hubp1.png",HUB PREMIER 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 2" tvg-logo="https://tv.qreatifku.my.id/images/hubp2.png",HUB PREMIER 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=9AHuedo13h
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 3" tvg-logo="https://tv.qreatifku.my.id/images/hubp3.png",HUB PREMIER 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&extension=ts&play_token=Et5fP65J8n
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 4" tvg-logo="https://tv.qreatifku.my.id/images/hubp4.png",HUB PREMIER 4
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032526&extension=ts&play_token=enHys0aCdI
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 5" tvg-logo="https://tv.qreatifku.my.id/images/hubp5.png",HUB PREMIER 5
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032525&extension=ts&play_token=enHys0aCdI
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 6" tvg-logo="https://tv.qreatifku.my.id/images/hubp6.png",HUB PREMIER 6
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032524&extension=ts&play_token=enHys0aCdI
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB PREMIER 7" tvg-logo="https://tv.qreatifku.my.id/images/hubp7.png",HUB PREMIER 7
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&extension=ts&play_token=enHys0aCdI
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB SPORTS 1" tvg-logo="https://tv.qreatifku.my.id/images/hubs1.png",HUB SPORTS 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB SPORTS 2" tvg-logo="https://tv.qreatifku.my.id/images/hubs2.png",HUB SPORTS 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
+
+#EXTINF:-1 group-title="SPORT HD" tvg-id="HUB SPORTS 3" tvg-logo="https://tv.qreatifku.my.id/images/hubs3.png",HUB SPORTS 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
+
 #EXTINF:-1 group-title="SPORT HD" tvg-logo="https://i.imgur.com/WA1Scah.png",FOX SPORT HD 1 Mexico
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
