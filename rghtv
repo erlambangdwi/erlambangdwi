@@ -1739,11 +1739,10 @@ https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="unifi SPORT HD 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-SPORT HD_1.png/revision/latest",Unifi SPORT HD 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="unifi SPORT HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-SPORT HD-2.png/revision/latest",Unifi SPORT HD 2
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 group-title="SPORT HD" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
