@@ -235,7 +235,7 @@ http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
-http://175.158.62.142:8888/stream/channelid/1789598785?ticket=8A1B2195190035D911308CDFD2332DDF8366CCFA&profile=pass
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://i.ibb.co/G7zvHYw/SGN-07-05-2023-1688543359631.png" group-title="National",INDOSIAR HD
 http://tvnid.x10.mx/vidio/master.m3u8
