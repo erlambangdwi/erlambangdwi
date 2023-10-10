@@ -1250,13 +1250,13 @@ http://103.152.118.53:80/streams/jesport_telu/index.m3u8
 #EXTINF:-1 group-title="SPORT HD" tvg-id="jSPORT HD4.jp" tvg-logo="https://www.jSPORT HD.co.jp/img/icon/ch4.png",J SPORT HD 4
 http://103.152.118.53:80/streams/jesport_papat/index.m3u8
 
-#EXTINF:-1 tvg-id="ksports1hd" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/1756?cb=20220127021303&path-prefix=vi",K+ Sports 1
+#EXTINF:-1 tvg-id="ksports1hd" group-title="SPORT HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/1756?cb=20220127021303&path-prefix=vi",K+ Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=898eeb02179006eec800214ec0200288:961a38bf9acbd355dea8ac83bc90e839
 https://cors-anywhere.azm.workers.dev/https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksports2hd" group-title="SPORT" tvg-logo="https://i.imgur.com/bzACfOj.png",K+ Sports 2
+#EXTINF:-1 tvg-id="ksports2hd" group-title="SPORT HD" tvg-logo="https://i.imgur.com/bzACfOj.png",K+ Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b20ea9dd400b1f7c9a0236c45534e2d:cf25ba3aa0f964af2ad6e8d3542356a9
