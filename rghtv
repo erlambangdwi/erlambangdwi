@@ -510,12 +510,6 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/286775
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C029Zb9/SGN-07-05-2023-1688557649091.png" group-title="MOVIES",MOVIE SPHERE
 https://MOVIESphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG1nksZW/SGN-07-05-2023-1688557886202.png" group-title="MOVIES",BluTV Play 1 (not online 24hours)
-http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG1nksZW/SGN-07-05-2023-1688557886202.png" group-title="MOVIES",BluTV Play 2 (not online 24hours)
-http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-
 
 ---------------HBO HD
 
