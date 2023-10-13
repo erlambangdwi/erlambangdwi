@@ -606,12 +606,12 @@ https://cors-anywhere.azm.workers.dev/https://linear01-playback.sooka.my/CH1/mas
 #EXTINF:-1 ch-number="812" tvg-id="AstroSupersport2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",Astro SuperSport 2 (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-https://live.ferymaleha.workers.dev/linear01-playback.sooka.my/CH4/masterCH4.mpd
+https://cors-anywhere.azm.workers.dev/https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 ch-number="813" tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",Astro SuperSport 3 (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-https://live.ferymaleha.workers.dev/linear01-playback.sooka.my/CH5/masterCH5.mpd
+https://cors-anywhere.azm.workers.dev/https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 ch-number="814" tvg-id="AstroSupersport4" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",Astro SuperSport 4 (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
