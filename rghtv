@@ -2354,8 +2354,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ENTERTAINMENT",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", First Highlight (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/first
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="useeprime.id" tvg-logo="https://i.imgur.com/xaAt1Zi.png",UseePrime 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd 
 
 
 ########################## LIFESTYLE ##########################
