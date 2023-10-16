@@ -514,6 +514,12 @@ https://MOVIESphere-plex.amagi.tv/playlist.m3u8
 
 ---------------HBO HD
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN16spcN/SGN-07-05-2023-1688558349145.png" group-title="MOVIES",HBO GO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbogox-bccccc5a288c.herokuapp.com/drm.php?id=040878X0
+https://hbogox-bccccc5a288c.herokuapp.com/index.mpd?id=040878X0
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
