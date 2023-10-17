@@ -676,39 +676,6 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 01
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303207_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 02
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303208_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 03
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303209_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 04
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303210_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 05
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303211_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 06
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303212_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 07
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303213_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 08
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303214_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 09
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303215_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 10
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303216_&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus SPORT HD 11
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303217_&extension=ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
@@ -1433,6 +1400,34 @@ https://webudit.vipboxtv.stream/lb/premium339/index.m3u8
 #EXTINF:-1 group-title="SPORT HD" tvg-logo="https://www.mmatv.co.uk/wp-content/uploads/2016/01/MMATV-logo-1.png",MMA TV
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=byPFmwd4yw8HDyR1xiKT&custom_7=60ecb878ebef9d002c4d0a11&is_lat=099/index.m3u8
+
+#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=49e2aa7ed50fc98b895023c87a32a183&key=57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport2.ro.png",Prima Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=96c311676c08545ea6aae37668e4a0df&key=64fca4a48c14d2b32afcd53971cfa62c
+https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport3.ro.png",Prima Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=9404e7ae27dce22d69d41ffc29197cef&key=a6177128238fe775d5c74803e15ac175
+https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c68ec2e525d8406b6c3cedbac72debae&key=a0f28f93fb9834d331df3ddedeb8a565
+https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-id="" group-title="SPORT HD" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD 1 test
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
