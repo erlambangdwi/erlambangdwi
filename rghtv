@@ -849,19 +849,19 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099226
 
 ########################## SPORT HD ########################
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Play_Sports_1_2021.svg/revision/latest/scale-to-width-down/250?cb=20230830090028" group-title="SPORT HD",Play Sport 1
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports1.be.png" group-title="SPORT HD",Play Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185038405652_image-header_pRow_1688020142000&quality=70" group-title="SPORT HD",Play Sport 2
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports2.be.png" group-title="SPORT HD",Play Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBV_zfS0eLIJU7H88A_KoBP53RGbys4rBMZQ&usqp=CAU" group-title="SPORT HD",Play Sport 3
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports3.be.png" group-title="SPORT HD",Play Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
