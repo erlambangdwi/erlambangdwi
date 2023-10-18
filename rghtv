@@ -265,8 +265,10 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png", Trans 7 FHD
 http://103.166.27.2:800/play/a01c
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png" group-title="National ",Trans 7 HD
-https://api.thomasandi.my.id/api/usi/hls.m3u8?id=trans7
+https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 group-title="National" tvg-logo="https://i.ibb.co/Wfv6Wd2/SGN-07-05-2023-1688543876655.png", Trans 7 SD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
